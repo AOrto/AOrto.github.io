@@ -30,7 +30,7 @@
 </div>
 
 *Invocation*  
-<div align="center">Sister Orton</div>
+<div align="center">To Be Announced</div>
 
 <div align="center">
   <h3>Ward Business</h3>
@@ -65,10 +65,14 @@
 </div>
 
 *Benediction*  
-<div align="center">Sister Orton</div>
+<div align="center">To be Announced</div>
 
 ---
 
 <div align="center">
-  <h2>Announcements?</h2>
+  <h2>Announcements:</h2>
 </div>
+
+---
+
+For any questions please contact The Missionaries at (559)231-0649
