@@ -7,51 +7,52 @@
 
 ---
 
-**Presiding**  
-**President Orton**  
+*Presiding*  
+&nbsp;&nbsp;&nbsp;&nbsp;**President Orton**
 
-**Conducting**  
-**President Orton**  
+*Conducting*  
+&nbsp;&nbsp;&nbsp;&nbsp;**President Orton**
 
-**Organist**  
-**Sister Tinny**  
+*Organist*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Tinny**
 
-**Chorister**  
-**Sister Orton**  
+*Chorister*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
 ---
 
-**Opening Hymn #**  
-[67 Glory to God on High](https://www.churchofjesuschrist.org/study/manual/hymns/glory-to-god-on-high?lang=eng)
+*Opening Hymn #*  
+&nbsp;&nbsp;&nbsp;&nbsp;[67 Glory to God on High](https://www.churchofjesuschrist.org/study/manual/hymns/glory-to-god-on-high?lang=eng)
 
-**Invocation**  
-**Sister Orton**
+*Invocation*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
 ### Ward Business  
 
-**Sacrament Hymn #**  
-[172 In Humility, Our Savior](https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng)
+*Sacrament Hymn #*  
+&nbsp;&nbsp;&nbsp;&nbsp;[172 In Humility, Our Savior](https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng)
 
 ### Administration of the Sacrament  
 
-**Speaker**  
-**Sister Orton**
+*Speaker*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
-**Speaker**  
-**Sister Orton**
+*Speaker*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
-**Intermediate Hymn #**  
-[252 Put Your Shoulder to the Wheel](https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng)
+*Intermediate Hymn #*  
+&nbsp;&nbsp;&nbsp;&nbsp;[252 Put Your Shoulder to the Wheel](https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng)
 
-**Speaker**  
-**Sister Orton**
+*Speaker*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
-**Closing Hymn #**  
-[152 God Be with You Till We Meet Again](https://www.churchofjesuschrist.org/study/manual/hymns/god-be-with-you-till-we-meet-again?lang=eng)
+*Closing Hymn #*  
+&nbsp;&nbsp;&nbsp;&nbsp;[152 God Be with You Till We Meet Again](https://www.churchofjesuschrist.org/study/manual/hymns/god-be-with-you-till-we-meet-again?lang=eng)
 
-**Benediction**  
-**Sister Orton**
+*Benediction*  
+&nbsp;&nbsp;&nbsp;&nbsp;**Sister Orton**
 
 ---
 
 ## Announcements?
+
