@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  # Church Of Jesus Christ of Latter Day Saints  
+  # Church Of Jesus Christ of Latter-Day Saints  
   ### Corcoran Branch  
   ## Sacrament Meeting  
 </div>
