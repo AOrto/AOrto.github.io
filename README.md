@@ -6,6 +6,7 @@
   <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
   <h3>Corcoran Branch</h3>  
   <h2>Sacrament Meeting</h2>  
+  10 am to 11 am
 </div>
 
 ---
@@ -17,7 +18,7 @@
 <div align="center">President Orton</div>
 
 *Organist*  
-<div align="center">Sister Tinny</div>
+<div align="center">Sister Tinney</div>
 
 *Chorister*  
 <div align="center">Sister Orton</div>
@@ -72,6 +73,10 @@
 <div align="center">
   <h2>Announcements:</h2>
 </div>
+1/25 - Tri-Stake Youth Dance 7-10 pm 
+1/25 Elders Quoram Starwars Night 5:30 pm
+2/9 Standards Night for Youth 5-6:30
+3/9 Branch Ward Conference
 
 ---
 
