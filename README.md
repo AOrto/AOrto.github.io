@@ -73,8 +73,8 @@
 <div align="center">
   <h2>Announcements:</h2>
 </div>
-1/25 - Tri-Stake Youth Dance 7-10 pm 
 
+1/25 - Tri-Stake Youth Dance 7-10 pm 
 
 1/25 Ward Starwars Night 5:30 pm
 
