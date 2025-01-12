@@ -47,10 +47,10 @@
 </div>
 
 *Speaker*  
-<div align="center">Sister Orton</div>
+<div align="center">Samantha Hyer</div>
 
 *Speaker*  
-<div align="center">Sister Orton</div>
+<div align="center">Kat Hyer </div>
 
 *Intermediate Hymn #*  
 <div align="center">
@@ -58,7 +58,7 @@
 </div>
 
 *Speaker*  
-<div align="center">Sister Orton</div>
+<div align="center">Paul Hyer</div>
 
 *Closing Hymn #*  
 <div align="center">
