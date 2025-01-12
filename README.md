@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  # Church Of Jesus Christ of Latter-Day Saints # 
-  ### Corcoran Branch  
-  ## Sacrament Meeting  
+  <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
+  <h3>Corcoran Branch</h3>  
+  <h2>Sacrament Meeting</h2>  
 </div>
 
 ---
@@ -33,7 +33,7 @@
 <div align="center">Sister Orton</div>
 
 <div align="center">
-  ### Ward Business
+  <h3>Ward Business</h3>
 </div>
 
 *Sacrament Hymn #*  
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  ### Administration of the Sacrament
+  <h3>Administration of the Sacrament</h3>
 </div>
 
 *Speaker*  
@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  ## Announcements?
+  <h2>Announcements?</h2>
 </div>
