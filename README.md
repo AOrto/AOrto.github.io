@@ -77,7 +77,7 @@
 1/25 - Tri-Stake Youth Dance 7-10 pm 
 
 1/25 Ward Starwars Night 5:30 pm <div align="center">
-  <img src="https://share.icloud.com/photos/064hrBWQmQGwJgwVK4iW-lQ-w"alt="Logo">
+  <img src="https://share.icloud.com/photos/064hrBWQmQGwJgwVK4iW-lQ-w" alt="Logo">
 </div>
 
 2/9 Standards Night for Youth 5-6:30
