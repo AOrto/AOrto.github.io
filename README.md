@@ -76,13 +76,14 @@
 
 1/25 - Tri-Stake Youth Dance 7-10 pm 
 
-1/25 Ward Starwars Night 5:30 pm <div align="center">
-  <img src="https://mail.google.com/mail/u/0/?ui=2&ik=4acee98c94&attid=0.1&permmsgid=msg-f:1821165266575296616&th=1946142937800868&view=fimg&disp=thd&attbid=ANGjdJ8i2GZRzrVolo92iKRCqcKdaIvdaQcSxWigdx9bQqFEn5pqhPBFxHHS0dEnMGG_h0XjcMMh86mLd3PAH1ZTY8buFIIRohqKfZpe_lk9yI0vlYnN2oOHnXE_R08&ats=2524608000000&sz=w1919-h826" alt="Logo">
+1/25 Ward Starwars Night 5:30 pm 
+<div align="center">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2074.JPEG?raw=true"alt="Logo">
 </div>
 
 2/9 Standards Night for Youth 5-6:30
 <div align="center">
-  <img src="C:\Users\Anne\Downloads\IMG_8488.JPEG" alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_8488.JPEG?raw=true"alt="Logo">
 </div>
 
 3/9 Branch Ward Conference
