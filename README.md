@@ -78,12 +78,12 @@
 
 1/25 Ward Starwars Night 5:30 pm 
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2074.JPEG?raw=true"alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2074.JPEG?raw=true" alt="Logo">
 </div>
 
 2/9 Standards Night for Youth 5-6:30
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_8488.JPEG?raw=true"alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_8488.JPEG?raw=true" alt="Logo">
 </div>
 
 3/9 Branch Ward Conference
