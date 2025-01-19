@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng">172 In Humility, Our Savior</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng">192 He Died! The Great Redeemer Died</a>
 </div>
 
 <div align="center">
@@ -47,22 +47,22 @@
 </div>
 
 *Speaker*  
-<div align="center">Samantha Hyer</div>
+<div align="center">TBD</div>
 
 *Speaker*  
-<div align="center">Kat Hyer </div>
+<div align="center">TBD </div>
 
 *Intermediate Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng">252 Put Your Shoulder to the Wheel</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
 </div>
 
 *Speaker*  
-<div align="center">Paul Hyer</div>
+<div align="center">TBD</div>
 
 *Closing Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-be-with-you-till-we-meet-again?lang=eng">152 God Be with You Till We Meet Again</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/let-us-oft-speak-kind-words?lang=eng">232 Let Us Oft Speak Kind Words</a>
 </div>
 
 *Benediction*  
