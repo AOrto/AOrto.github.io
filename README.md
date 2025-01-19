@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/glory-to-god-on-high?lang=eng">67 Glory to God on High</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/welcome-welcome-sabbath-morning?lang=eng">280 Welcome, Welcome, Sabbath Morning</a>
 </div>
 
 *Invocation*  
