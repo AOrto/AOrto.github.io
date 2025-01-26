@@ -56,7 +56,7 @@
 </div>
 
 *Speaker*  
-<div align="center"> SISter Williams</div>
+<div align="center"> Sister Williams</div>
 
 *Closing Hymn #*  
 <div align="center">
@@ -72,12 +72,6 @@
   <h2>Announcements:</h2>
 </div>
 
-1/25 - Tri-Stake Youth Dance 7-10 pm 
-
-1/25 Ward Starwars Night 5:30 pm 
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2074.JPEG?raw=true" alt="flyer">
-</div>
 
 2/22 Standards Night for Youth 6 pm
 <div align="center">
