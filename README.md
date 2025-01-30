@@ -47,16 +47,8 @@
 </div>
 
 *Speaker*  
-<div align="center"> Sister Nielsen</div>
+<div align="center"> You!!!! its fast and Testimony meeting</div>
 
-
-*Intermediate Hymn #*  
-<div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
-</div>
-
-*Speaker*  
-<div align="center"> Sister Williams</div>
 
 *Closing Hymn #*  
 <div align="center">
