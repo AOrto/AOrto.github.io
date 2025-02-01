@@ -64,7 +64,7 @@
   <h2>Announcements:</h2>
 </div>
 
-2/8 relief society valentine and cookie exchange
+2/8 relief society valentine and cookie exchange 4-5 pm
 
 2/22 Standards Night for Youth 6 pm
 <div align="center">
