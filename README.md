@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/265ae775c81a11ed91c8eeeeac1ec8afb281017f/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e6ccda49dec211ed858aeeeeac1e86e7041f9b69/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/welcome-welcome-sabbath-morning?lang=eng">280 Welcome, Welcome, Sabbath Morning</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-are-all-enlisted?lang=eng">250 We Are All Enlisted</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng">192 He Died! The Great Redeemer Died</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">171 With Humble Heart</a>
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 *Closing Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/let-us-oft-speak-kind-words?lang=eng">232 Let Us Oft Speak Kind Words</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng">27 Praise to the Man </a>
 </div>
 
 *Benediction*  
@@ -76,6 +76,7 @@
 
 3/9 Branch Ward Conference
 
+All those who would like to sing in stake choir for stake conference this march please text or call Steve McNaughton at (559)908-3778
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
