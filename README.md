@@ -47,10 +47,8 @@
 </div>
 
 *Speaker*  
-<div align="center"> You!!!! its fast and Testimony meeting</div>
-
-
-
+<div align="center"> You!!!! its fast and Testimony meeting
+</div>
 
 *Closing Hymn #*  
 
