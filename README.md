@@ -15,7 +15,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Orton</div>
+<div align="center">brother Prater</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
