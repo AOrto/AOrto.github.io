@@ -91,6 +91,11 @@
   <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2459.JPEG?raw=true" alt="flyer 2 ">
 </div>
 
+3/6 Race to the Treasure 7pm
+<div align="center">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_1719.jpeg?raw=true" alt="flyer 3">
+</div>
+
 3/9 Branch Ward Conference
 
 All those who would like to sing in Stake choir for Stake conference this March please text or call Steve McNaughton at (559)908-3778
