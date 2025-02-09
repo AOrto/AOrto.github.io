@@ -88,7 +88,7 @@
 
 2/22 Dinner With President Lund 4pm
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_9815.JPEG?raw=true" alt="flyer 2 ">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2459.JPEG?raw=true" alt="flyer 2 ">
 </div>
 
 3/9 Branch Ward Conference
