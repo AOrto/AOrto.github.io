@@ -47,7 +47,7 @@
 </div>
 
 *Speaker*  
-<div align="center"> Sister Raber
+<div align="center"> Brother Covarrubias
 </div>
 
 *intermediate Hymn #*  
@@ -57,7 +57,7 @@
 </div>
 
 *Speaker*  
-<div align="center"> President Raber
+<div align="center"> Brother Lee
 </div>
 
 *Closing Hymn #*  
