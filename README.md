@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=eng">254 True To The Faith</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19 We Thank Thee O, God For a Prophet</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-love?lang=eng">195 How Great the Wisdom and Love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">169 As Now We Take The Sacrement</a>
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=eng">249 Called To Serve </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=eng">255 Carry On </a>
 </div>
 
 *Speaker*  
@@ -63,76 +63,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230 Scatter Sunshine </a>
-</div>
-
-
-*Benediction*  
-<div align="center">To be Announced</div>
-
----
-<div align="center">
-  <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
-  <h3>Corcoran Branch</h3>  
-  <h2>Espanol Sacrament Meeting</h2>  
-  10 am to 11 am
-</div>
-
----
-
-*Presiding*  
-<div align="center">President Orton</div>
-
-*Conducting*  
-<div align="center">Brother Prater</div>
-
-*Organist*  
-<div align="center">Sister Tinney</div>
-
-*Chorister*  
-<div align="center">Sister Orton</div>
-
----
-
-*Opening Hymn #*  
-<div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=eng">254 True To The Faith</a>
-</div>
-
-*Invocation*  
-<div align="center">To Be Announced</div>
-
-<div align="center">
-  <h3>Ward Business</h3>
-</div>
-
-*Sacrament Hymn #*  
-<div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-love?lang=eng">195 How Great the Wisdom and Love</a>
-</div>
-
-<div align="center">
-  <h3>Administration of the Sacrament</h3>
-</div>
-
-*Speaker*  
-<div align="center"> Brother Covarrubias
-</div>
-
-*intermediate Hymn #*  
-
-<div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=eng">249 Called To Serve </a>
-</div>
-
-*Speaker*  
-<div align="center"> Brother Lee
-</div>
-
-*Closing Hymn #*  
-
-<div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230 Scatter Sunshine </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/though-deepening-trials?lang=eng">122 Though Deepening Trials </a>
 </div>
 
 
