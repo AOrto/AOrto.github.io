@@ -76,21 +76,6 @@
   <h2>Announcements:</h2>
 </div>
 
-
-2/22 Standards Night for Youth 6 pm
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_8488.JPEG?raw=true" alt="flyer 1">
-</div>
-
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_9815.JPEG?raw=true" alt="flyer 2 spanish">
-</div>
-
-2/22 Dinner With President Lund 4pm
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_2459.JPEG?raw=true" alt="flyer 2 ">
-</div>
-
 3/6 Race to the Treasure 7pm
 <div align="center">
   <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_1719.jpeg?raw=true" alt="flyer 3">
