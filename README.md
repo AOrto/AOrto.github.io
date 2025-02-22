@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/1a47c757c81a11edb163eeeeac1edd66c5558af8/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/194b3eeac81a11edbe45eeeeac1e3ffe1e8664ca/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19 We Thank Thee O, God For a Prophet</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116 Come, Follow Me</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">169 As Now We Take The Sacrement</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/father-in-heaven-we-do-believe?lang=eng">180 Father in Heaven, We Do Believe</a>
 </div>
 
 <div align="center">
@@ -47,23 +47,23 @@
 </div>
 
 *Speaker*  
-<div align="center"> Brother Covarrubias
+<div align="center"> Sister Borcik
 </div>
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=eng">255 Carry On </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/this-little-light-of-mine-release-3?lang=eng">1028 This Little Light Of Mine </a>
 </div>
 
 *Speaker*  
-<div align="center"> Brother Lee
+<div align="center"> Elder Borcik
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/though-deepening-trials?lang=eng">122 Though Deepening Trials </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-i-search-the-holy-scriptures?lang=eng">277 As I Search The Holy Scriptures</a>
 </div>
 
 
