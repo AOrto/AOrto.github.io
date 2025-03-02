@@ -15,7 +15,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Prater</div>
+<div align="center">President Orton</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -58,8 +58,10 @@
 --->
 
 *Speaker*  
+
 <div align="center"> You! its fast and testimony meeting!!!
 </div>
+
 
 *Closing Hymn #*  
 
