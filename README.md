@@ -45,7 +45,8 @@
 <div align="center">
   <h3>Administration of the Sacrament</h3>
 </div>
-[//]: #(*Speaker*)
+<!---
+*Speaker*
 <div align="center"> Sister Borcik
 </div>
 
@@ -57,7 +58,8 @@
 
 *Speaker*  
 <div align="center"> Elder Borcik
-</div>)
+</div>
+--->
 
 *Closing Hymn #*  
 
