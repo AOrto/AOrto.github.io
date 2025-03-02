@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116 Come, Follow Me</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/father-in-heaven-we-do-believe?lang=eng">180 Father in Heaven, We Do Believe</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng">192 He Died! The Great Redeemer Died</a>
 </div>
 
 <div align="center">
@@ -55,16 +55,16 @@
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/this-little-light-of-mine-release-3?lang=eng">1028 This Little Light Of Mine </a>
 </div>
+--->
 
 *Speaker*  
-<div align="center"> Elder Borcik
+<div align="center"> You! its fast and testimony meeting!!!
 </div>
---->
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-i-search-the-holy-scriptures?lang=eng">277 As I Search The Holy Scriptures</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/ill-go-where-you-want-me-to-go?lang=eng">270 I'll Go Where You Want Me To Go</a>
 </div>
 
 
