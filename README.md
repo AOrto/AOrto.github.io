@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/194b3eeac81a11edbe45eeeeac1e3ffe1e8664ca/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/0728e964c81a11eda0a8eeeeac1ec732b0d9f9f4/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 <div align="center">
   <h3>Administration of the Sacrament</h3>
 </div>
-
+[//]: <> (
 *Speaker*  
 <div align="center"> Sister Borcik
 </div>
@@ -58,7 +58,7 @@
 
 *Speaker*  
 <div align="center"> Elder Borcik
-</div>
+</div>)
 
 *Closing Hymn #*  
 
