@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/0728e964c81a11eda0a8eeeeac1ec732b0d9f9f4/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/1f61ee54c81a11edb4eeeeeeac1eca35b00abe48/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-am-a-child-of-god?lang=eng">301 I Am a Child Of God</a>
 </div>
 
 *Invocation*  
@@ -39,17 +39,19 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng">192 He Died! The Great Redeemer Died</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=eng">194 There Is A Green Hill Far Away</a>
 </div>
 
 <div align="center">
   <h3>Administration of the Sacrament</h3>
 </div>
-<!---
+
+
 *Speaker*
-<div align="center"> Sister Borcik
+<div align="center"> President Orton
 </div>
 
+<!---
 *intermediate Hymn #*  
 
 <div align="center">
@@ -59,14 +61,14 @@
 
 *Speaker*  
 
-<div align="center"> You! its fast and testimony meeting!!!
+<div align="center"> President Birrel
 </div>
 
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/ill-go-where-you-want-me-to-go?lang=eng">270 I'll Go Where You Want Me To Go</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
 </div>
 
 
@@ -77,11 +79,6 @@
 
 <div align="center">
   <h2>Announcements:</h2>
-</div>
-
-3/6 Race to the Treasure 7pm
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_1719.jpeg?raw=true" alt="flyer 3">
 </div>
 
 3/9 Branch Ward Conference
