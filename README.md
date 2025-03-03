@@ -12,7 +12,7 @@
 ---
 
 *Presiding*  
-<div align="center">President Orton</div>
+<div align="center">President Birrel</div>
 
 *Conducting*  
 <div align="center">President Orton</div>
