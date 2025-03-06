@@ -83,6 +83,16 @@
 
 3/9 Branch Ward Conference
 
+3/22 Stake Conference 
+3/22 Leadership Session 3:30pm
+3/22 Adult Session 7pm
+3/23 General Session 10am
+3/23 Spanish Session 12:20
+
+4/5-6 General Conference
+
+4/20 Easter so only sacrement meeting
+
 All those who would like to sing in Stake choir for Stake conference this March please text or call Steve McNaughton at (559)908-3778
 ---
 
