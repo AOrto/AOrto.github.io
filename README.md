@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/1f61ee54c81a11edb4eeeeeeac1eca35b00abe48/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/18d6dff8c81f11edbed6eeeeac1e02ad1a835151/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ---
 
 *Presiding*  
-<div align="center">President Birrel</div>
+<div align="center">President Orton</div>
 
 *Conducting*  
 <div align="center">President Orton</div>
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-am-a-child-of-god?lang=eng">301 I Am a Child Of God</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-spirit-of-god?lang=eng">2 The Spirit of God</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=eng">194 There Is A Green Hill Far Away</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-the-love?lang=eng">195 How Great The Wisdom and The Love</a>
 </div>
 
 <div align="center">
@@ -48,27 +48,28 @@
 
 
 *Speaker*
-<div align="center"> President Orton
+<div align="center"> Sister Hill
 </div>
 
-<!---
+
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/this-little-light-of-mine-release-3?lang=eng">1028 This Little Light Of Mine </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=eng">1005 His Eye is in The Sparrow </a>
 </div>
+<!---
 --->
 
 *Speaker*  
 
-<div align="center"> President Birrel
+<div align="center"> Sister Sorenson
 </div>
 
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/battle-hymn-of-the-republic?lang=eng">50 Battle Hymn of The Republic</a>
 </div>
 
 
@@ -81,7 +82,6 @@
   <h2>Announcements:</h2>
 </div>
 
-3/9 Branch Ward Conference
 
 3/22 Stake Conference 
 
@@ -97,7 +97,6 @@
 
 4/20 Easter so only sacrement meeting
 
-All those who would like to sing in Stake choir for Stake conference this March please text or call Steve McNaughton at (559)908-3778
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
