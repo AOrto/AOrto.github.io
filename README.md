@@ -84,21 +84,11 @@
   <h2>Announcements:</h2>
 </div>
 
-
-3/22 Stake Conference 
-
-3/22 Leadership Session 3:30pm
-
-3/22 Adult Session 7pm
-
-3/23 General Session 10am
-
-3/23 Spanish Session 12:20
-
 4/5-6 General Conference
 
 4/20 Easter so only sacrement meeting
 
+<h3>New Gate Code:</h3>
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
