@@ -88,7 +88,7 @@
 
 4/20 Easter so only sacrement meeting
 
-<h3>New Gate Code: 0000 maybe changed to 3185</h3>
+<h3>New Gate Code: 3185</h3>
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
