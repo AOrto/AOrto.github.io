@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/18d6dff8c81f11edbed6eeeeac1e02ad1a835151/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/45237557c81a11ed91c8eeeeac1ec8af31f89003/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -47,24 +47,27 @@
 </div>
 
 
+
 *Speaker*
-<div align="center"> Sister Hill
+<div align="center"> YOU! Its Fast and Testimony Meeting
 </div>
 
+<!---
 
 *intermediate Hymn #*  
 
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=eng">1005 His Eye is in The Sparrow </a>
 </div>
-<!---
---->
+
+
 
 *Speaker*  
 
 <div align="center"> Sister Sorenson
 </div>
 
+<---
 
 *Closing Hymn #*  
 
