@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-spirit-of-god?lang=eng">2 The Spirit of God</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-is-risen?lang=eng">199 He is Risen</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-the-love?lang=eng">195 How Great The Wisdom and The Love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</a>
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/battle-hymn-of-the-republic?lang=eng">50 Battle Hymn of The Republic</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/Testimony?lang=eng">137 Testimony</a>
 </div>
 
 
@@ -88,7 +88,7 @@
 
 4/20 Easter so only sacrement meeting
 
-<h3>New Gate Code:</h3>
+<h3>New Gate Code: 0000 maybe changed to 3185</h3>
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
