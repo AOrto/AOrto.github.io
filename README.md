@@ -67,7 +67,7 @@
 <div align="center"> Sister Sorenson
 </div>
 
-<---
+ <---
 
 *Closing Hymn #*  
 
