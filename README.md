@@ -71,7 +71,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230 Scatter Sunshine</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/christ-the-lord-is-risen-today?lang=eng">200 Christ the Lord has Risen Today</a>
 </div>
 
 
