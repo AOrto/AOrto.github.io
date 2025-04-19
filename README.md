@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8e84b28de5f611edb062eeeeac1e6ff8dd321a97/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/89cc0c7ee5f611edb1a4eeeeac1e8631df40e26a/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92 For The Beauty Of The Earth</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/that-easter-morn?lang=eng">198 That Easter Morn</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/behold-the-great-redeemer-die?lang=eng">191 Behold the Great Redeemer Died</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng">193 I Stand All Amazed</a>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 
 *Speaker*
-<div align="center"> Sister Matadamas
+<div align="center"> Sister Williams
 </div>
 
 <!---
@@ -58,20 +58,20 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/rejoice-the-lord-is-king?lang=eng">66 Rejoice the Lord is King </a>
+  <a href="https://youtu.be/Eu0Kgp3lDow?si=OmY8cFHoy9zKIsZT">the sisters are singing </a>
 </div>
 
 
 
 *Speaker*  
 
-<div align="center"> Sister Oberst
+<div align="center"> Brother Hatfield
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/because-i-have-been-given-much?lang=eng">219 Because I Have Been Given Much</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230 Scatter Sunshine</a>
 </div>
 
 
