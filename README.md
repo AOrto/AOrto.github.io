@@ -15,7 +15,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Matadamas</div>
+<div align="center">Brother Prater</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -58,7 +58,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://youtu.be/Eu0Kgp3lDow?si=OmY8cFHoy9zKIsZT">the sisters are singing </a>
+  <a href="https://youtu.be/Eu0Kgp3lDow?si=OmY8cFHoy9zKIsZT">musical preformance </a>
 </div>
 
 
