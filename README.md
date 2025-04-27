@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/89cc0c7ee5f611edb1a4eeeeac1e8631df40e26a/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/89450236e5f611eda9fceeeeac1e012a44d9b3fe/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Prater</div>
+<div align="center">Brother Mantadamas</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/that-easter-morn?lang=eng">198 That Easter Morn</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-firm-a-foundation?lang=eng">85 How Firm Of Foundation</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng">193 I Stand All Amazed</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng">177 Tis sweet to sing the matchless love</a>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 
 *Speaker*
-<div align="center"> Sister Williams
+<div align="center"> Sister Manriquez
 </div>
 
 <!---
@@ -58,20 +58,20 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://youtu.be/Eu0Kgp3lDow?si=OmY8cFHoy9zKIsZT">musical preformance </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92 For the Beauty of the Earth</a>
 </div>
 
 
 
 *Speaker*  
 
-<div align="center"> Brother Hatfield
+<div align="center"> Brother Mantadamas
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/christ-the-lord-is-risen-today?lang=eng">200 Christ the Lord has Risen Today</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
 </div>
 
 
