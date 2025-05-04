@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/89450236e5f611eda9fceeeeac1e012a44d9b3fe/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8d020a2fe5f611edbcf2eeeeac1ee5f5a319c6c0/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-firm-a-foundation?lang=eng">85 How Firm Of Foundation</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30 Come, Come, Ye Saints</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng">177 Tis sweet to sing the matchless love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</a>
 </div>
 
 <div align="center">
@@ -49,11 +49,11 @@
 
 
 *Speaker*
-<div align="center"> Sister Manriquez
+<div align="center"> You! its fast sunday
 </div>
 
 <!---
---->
+
 
 *intermediate Hymn #*  
 
@@ -67,11 +67,11 @@
 
 <div align="center"> Brother Mantadamas
 </div>
-
+--->
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=eng">227 There is Sunshine in My Soul Today</a>
 </div>
 
 
@@ -87,5 +87,5 @@
 
 <h3>New Gate Code: 3185</h3>
 ---
-
+<h1>May The Fourth Be With you</h1>
 For any questions please contact The Missionaries at (559)231-0649
