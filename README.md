@@ -86,5 +86,5 @@
 
 <h3>New Gate Code: 3185</h3>
 ---
-<h1>May The Fourth Be With you</h1>
+
 For any questions please contact The Missionaries at (559)231-0649
