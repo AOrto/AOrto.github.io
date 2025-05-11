@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8d020a2fe5f611edbcf2eeeeac1ee5f5a319c6c0/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8d178dfbe5f611ed8a67eeeeac1e5c95ba60ccca/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30 Come, Come, Ye Saints</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116 Come, Follow Me</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/father-in-heaven-we-do-believe?lang=eng">180 Father in Heaven, We Do Believe</a>
 </div>
 
 <div align="center">
@@ -49,29 +49,28 @@
 
 
 *Speaker*
-<div align="center"> You! its fast sunday
+<div align="center"> Brother Curtis?
 </div>
 
 <!---
-
+--->
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92 For the Beauty of the Earth</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/battle-hymn-of-the-republic?lang=eng">60 battle Hymm of The Republic</a>
 </div>
-
 
 
 *Speaker*  
 
-<div align="center"> Brother Mantadamas
+<div align="center"> Brother Pratter?
 </div>
---->
+
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=eng">227 There is Sunshine in My Soul Today</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-my-father?lang=eng">292 O My Father</a>
 </div>
 
 
