@@ -64,7 +64,7 @@
 
 *Speaker*  
 
-<div align="center"> To Be Announced
+<div align="center"> Brother Prince
 </div>
 
 *Closing Hymn #*  
