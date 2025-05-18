@@ -85,6 +85,10 @@
 
 If You See This Tell President Orton You Think Spiderman Is Better Then Superman!
 
+also tell him this joke:
+Why don't scientists trust atoms?
+Because they make up everything!
+
 <h3>New Gate Code: 3185</h3>
 ---
 
