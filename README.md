@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8d178dfbe5f611ed8a67eeeeac1e5c95ba60ccca/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8ada211ae5f611edabafeeeeac1ed1d432b71e07/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Mantadamas</div>
+<div align="center">Brother Prater</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116 Come, Follow Me</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-spirit-of-god?lang=eng">2 The Spirit of God</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/father-in-heaven-we-do-believe?lang=eng">180 Father in Heaven, We Do Believe</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-the-love?lang=eng">195 How Great the Wisdom and the Love</a>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 
 *Speaker*
-<div align="center"> Brother Curtis?
+<div align="center"> To be Announced
 </div>
 
 <!---
@@ -58,19 +58,19 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/battle-hymn-of-the-republic?lang=eng">60 battle Hymm of The Republic</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/amazing-grace?lang=eng">1010 Amazing Grace</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Brother Pratter?
+<div align="center"> To Be Announced
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-my-father?lang=eng">292 O My Father</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
 </div>
 
 
@@ -83,6 +83,7 @@
   <h2>Announcements:</h2>
 </div>
 
+If You See This Tell President Orton You Think Spiderman Is Better Then Superman!
 
 <h3>New Gate Code: 3185</h3>
 ---
