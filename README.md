@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8ada211ae5f611edabafeeeeac1ed1d432b71e07/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/89f0364ae5f611ed983eeeeeac1e4062f04eda24/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 
 *Speaker*
-<div align="center"> To be Announced
+<div align="center"> Sister Hatfield
 </div>
 
 <!---
@@ -64,7 +64,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Prince
+<div align="center"> Brother Oberst
 </div>
 
 *Closing Hymn #*  
@@ -83,11 +83,11 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This Tell President Orton You Think Spiderman Is Better Then Superman!
+If You See This Tell President Orton You Think it's weird his favorite book is the communist manifesto!
 
 also tell him this joke:
-Why don't scientists trust atoms?
-Because they make up everything!
+why did the frog take the bus to work?
+his car got toad!
 
 <h3>New Gate Code: 3185</h3>
 ---
