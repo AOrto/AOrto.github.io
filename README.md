@@ -27,7 +27,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-spirit-of-god?lang=eng">2 The Spirit of God</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19 We thank thee, oh God, for a Prophet</a>
 </div>
 
 *Invocation*  
@@ -39,7 +39,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-great-the-wisdom-and-the-love?lang=eng">195 How Great the Wisdom and the Love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">169 As now we take the sacrament</a>
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/amazing-grace?lang=eng">1010 Amazing Grace</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/sweet-hour-of-prayer?lang=eng">142 Sweet Hour of Prayer</a>
 </div>
 
 
@@ -70,7 +70,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/choose-the-right?lang=eng">239 Choose The Right</a>
 </div>
 
 
