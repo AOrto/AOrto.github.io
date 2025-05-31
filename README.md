@@ -83,11 +83,11 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This Tell President Orton You Think it's weird his favorite book is the communist manifesto!
+If You See This ask President Orton if he likes Mein Kampf or minecraft more!
 
 also tell him this joke:
-why did the frog take the bus to work?
-his car got toad!
+why does orions belt only have three stars?
+some say its just a waist of space!
 
 <h3>New Gate Code: 3185</h3>
 ---
