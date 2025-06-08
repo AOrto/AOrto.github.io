@@ -28,6 +28,7 @@
 *Opening Hymn #*  
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-day-dawn-is-breaking?lang=eng">52 The Day Dawn Is Breaking</a>
+  
    <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-day-dawn-is-breaking?lang=spa">24 El alba ya rompe</a>
 
 </div>
@@ -41,8 +42,10 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</div>
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=spa">112 El Padre tanto nos amó</div>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</a>
+
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=spa">112 El Padre tanto nos amó</a>
+</div>
 
 <div align="center">
   <h3>Administration of the Sacrament</h3>
@@ -61,7 +64,8 @@
 
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/families-can-be-together-forever?lang=eng">300 Family can be together Forever</a>
-    <a href="https://www.churchofjesuschrist.org/study/manual/hymns/families-can-be-together-forever?lang=spa">195 Las familias pueden ser eternas</a>
+
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/families-can-be-together-forever?lang=spa">195 Las familias pueden ser eternas</a>
 </div>
 
 
@@ -74,7 +78,8 @@
 
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
-    <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73 Yo sé que vive mi Señor</a>
+  
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73 Yo sé que vive mi Señor</a>
 </div>
 
 
