@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/893b653fe5f611ed80f8eeeeac1e7add1ec890b0/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8ebb2be7e5f611eda9fceeeeac1e012a10503ce5/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-day-dawn-is-breaking?lang=eng">52 The Day Dawn Is Breaking</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=eng">227 There Is Sunshine in My Soul Today</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-day-dawn-is-breaking?lang=spa">24 El alba ya rompe</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=spa">146 Tengo gozo en mi alma hoy</a>
 
 </div>
 
@@ -42,9 +42,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng">187 God Loved Us, So He Sent His Son</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng">193 I Stand All Amazed</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=spa">112 El Padre tanto nos amó</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=spa">118 Asombro me da</a>
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@
 
 
 *Speaker*
-<div align="center"> Sister Woolley
+<div align="center"> Sister Rocha
 </div>
 
 <!---
@@ -63,23 +63,23 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/families-can-be-together-forever?lang=eng">300 Family can be together Forever</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/do-what-is-right?lang=eng">237 Do What Is Right</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/families-can-be-together-forever?lang=spa">195 Las familias pueden ser eternas</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/do-what-is-right?lang=spa">154 Haz tú lo justo</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> President Woolley
+<div align="center"> Brother Waite
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">304 Teach Me to Walk in the Light</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73 Yo sé que vive mi Señor</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=spa">198 Hazme andar en la luz</a>
 </div>
 
 
@@ -92,11 +92,12 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This ask President Orton why he doesnt like the way the moon looks!
+If You See This ask President Orton about the BOGO offer going on right now!
 
 also tell him this joke:
-How do you get an even number from seven?
-you take off the S
+My wife texted me this morning and said, 'Your great.' I replied,
+ 'No, you’re great.' She’s been in a great mood ever since. 
+I should correct her grammar more often.
 <h3>New Gate Code: 3185</h3>
 ---
 
