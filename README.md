@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8ebb2be7e5f611eda9fceeeeac1e012a10503ce5/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8f53c261e5f611ed80f8eeeeac1e7addb6c99900/full/!1280%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=eng">227 There Is Sunshine in My Soul Today</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19  We Thank Thee, O God, for a Prophet </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-sunshine-in-my-soul-today?lang=spa">146 Tengo gozo en mi alma hoy</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=spa">10 Te Samos,Senior,nuestras graces</a>
 
 </div>
 
@@ -42,9 +42,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng">193 I Stand All Amazed</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">169 as now we take the sacrament</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=spa">118 Asombro me da</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">spanish not available</a>
 </div>
 
 <div align="center">
@@ -54,7 +54,13 @@
 
 
 *Speaker*
-<div align="center"> Sister Rocha
+<div align="center"> Clare Curtis
+</div>
+
+<div align="center"> Brittney Curtis
+</div>
+
+<div align="center"> Bret Orton
 </div>
 
 <!---
@@ -63,23 +69,23 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/do-what-is-right?lang=eng">237 Do What Is Right</a>
-
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/do-what-is-right?lang=spa">154 Haz tú lo justo</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=eng">255 carry-on</a>
+  
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=spa">167 A Venver</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Brother Waite
+<div align="center"> Sister Thigpin
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">304 Teach Me to Walk in the Light</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng">252 Put Your Shoulder To The Wheel</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=spa">198 Hazme andar en la luz</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=spa">not available in spanish</a>
 </div>
 
 
@@ -92,12 +98,16 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This ask President Orton about the BOGO offer going on right now!
+If You See This ask President Orton about 01010111 01101000 01111001 00100000 01101000 
+01100101 00100000 01100100 01101111 01100101 01110011 01101110 11100010 10000000 10011001 
+01110100 00100000 01100010 01100101 01101100 01101001 01100101 01110110 01100101 00100000 
+01101001 01101110 00100000 01110100 01101000 01100101 00100000 01110010 01101111 01100010
+ 01101111 01110100 00100000 01110101 01110000 01110010 01101001 01110011 01101001 01101110
+ 01100111 00111111!
 
 also tell him this joke:
-My wife texted me this morning and said, 'Your great.' I replied,
- 'No, you’re great.' She’s been in a great mood ever since. 
-I should correct her grammar more often.
+A robot gets arrested.
+He's charged with battery
 <h3>New Gate Code: 3185</h3>
 ---
 
