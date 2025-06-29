@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8f53c261e5f611ed80f8eeeeac1e7addb6c99900/full/!1280%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/86d317d5e5f611eda9fceeeeac1e012a3aa1da52/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19  We Thank Thee, O God, for a Prophet </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=eng">254 True To The Faith </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=spa">10 Te Samos,Senior,nuestras graces</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=spa">166 firmes creceden la</a>
 
 </div>
 
@@ -42,9 +42,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">169 as now we take the sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/behold-the-great-redeemer-die?lang=eng"> 191 behold, the great Redeemer died </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng">spanish not available</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/behold-the-great-redeemer-die?lang=spa">114</a>
 </div>
 
 <div align="center">
@@ -54,14 +54,10 @@
 
 
 *Speaker*
-<div align="center"> Clare Curtis
+<div align="center"> Sister Ball
 </div>
 
-<div align="center"> Brittney Curtis
-</div>
 
-<div align="center"> Bret Orton
-</div>
 
 <!---
 -->
@@ -69,23 +65,23 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=eng">255 carry-on</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know that my redeemer Lives</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=spa">167 A Venver</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Sister Thigpin
+<div align="center"> Brother Ball
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng">252 Put Your Shoulder To The Wheel</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=eng">249 Called to serve</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/carry-on?lang=spa">not available in spanish</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=spa">161</a>
 </div>
 
 
@@ -98,16 +94,11 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This ask President Orton about 01010111 01101000 01111001 00100000 01101000 
-01100101 00100000 01100100 01101111 01100101 01110011 01101110 11100010 10000000 10011001 
-01110100 00100000 01100010 01100101 01101100 01101001 01100101 01110110 01100101 00100000 
-01101001 01101110 00100000 01110100 01101000 01100101 00100000 01110010 01101111 01100010
- 01101111 01110100 00100000 01110101 01110000 01110010 01101001 01110011 01101001 01101110
- 01100111 00111111!
+If You See This ask President Orton how he was secretly cia intelligence
 
 also tell him this joke:
-A robot gets arrested.
-He's charged with battery
+what does a cia agent do when its time for bed?
+he goes under cover!
 <h3>New Gate Code: 3185</h3>
 ---
 
