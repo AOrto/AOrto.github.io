@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/86d317d5e5f611eda9fceeeeac1e012a3aa1da52/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/CA294CE6-F309-4147-B3EF-CF636DE6F4C3.jpeg?raw=true" alt="Logo">
 </div>
 
+<!---
 <div align="center">
   <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
   <h3>Corcoran Branch</h3>  
@@ -59,8 +60,8 @@
 
 
 
-<!---
--->
+
+
 
 *intermediate Hymn #*  
 
@@ -87,18 +88,18 @@
 
 *Benediction*  
 <div align="center">To be Announced</div>
-
+-->
 ---
 
 <div align="center">
   <h2>Announcements:</h2>
 </div>
 
-If You See This ask President Orton how he was secretly cia intelligence
+If You See This ask angel I'm on vaction!
 
-also tell him this joke:
-what does a cia agent do when its time for bed?
-he goes under cover!
+also tell him this fun fact:
+cotton candy was created by a dentist!
+
 <h3>New Gate Code: 3185</h3>
 ---
 
