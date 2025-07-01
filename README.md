@@ -95,7 +95,7 @@
   <h2>Announcements:</h2>
 </div>
 
-If You See This ask angel I'm on vaction!
+If You See This ask Angel I'm on vacation!
 
 also tell him this fun fact:
 cotton candy was created by a dentist!
