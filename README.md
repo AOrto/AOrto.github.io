@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/CA294CE6-F309-4147-B3EF-CF636DE6F4C3.jpeg?raw=true" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e47080ddf0f711ed99caeeeeac1ea421427f9299/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
+--->
 <div align="center">
   <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
   <h3>Corcoran Branch</h3>  
@@ -19,7 +20,7 @@
 <div align="center">President Orton</div>
 
 *Organist*  
-<div align="center">Sister Orton</div>
+<div align="center">Sister Oberst</div>
 
 *Chorister*  
 <div align="center">Sister Orton</div>
@@ -88,7 +89,7 @@
 
 *Benediction*  
 <div align="center">To be Announced</div>
--->
+
 ---
 
 <div align="center">
