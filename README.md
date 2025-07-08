@@ -56,7 +56,7 @@
 
 
 *Speaker*
-<div align="center"> Sister Ball
+<div align="center"> TBA
 </div>
 
 
@@ -75,7 +75,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Ball
+<div align="center"> TBA
 </div>
 
 *Closing Hymn #*  
