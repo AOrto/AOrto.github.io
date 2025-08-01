@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e47080ddf0f711ed99caeeeeac1ea421427f9299/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/c76840a5f0f711edb152eeeeac1e2d8f3a5a2219/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=eng">254 True To The Faith </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/oh-may-my-soul-commune-with-thee?lang=eng">123 Oh May my Soul Commune </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/true-to-the-faith?lang=spa">166 firmes creceden la</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/oh-may-my-soul-commune-with-thee?lang=eng">en Español: NA</a>
 
 </div>
 
@@ -44,15 +44,16 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/behold-the-great-redeemer-die?lang=eng"> 191 behold, the great Redeemer died </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng"> 187 God Loved Us, So He Sent His Son </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/behold-the-great-redeemer-die?lang=spa">114</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=spa">en Español: 112</a>
 </div>
 
 <div align="center">
   <h3>Administration of the Sacrament</h3>
 </div>
 
+<!---
 
 
 *Speaker*
@@ -71,19 +72,19 @@
   
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73</a>
 </div>
-
+--->
 
 *Speaker*  
 
-<div align="center"> TBA
+<div align="center"> You!!!!!! it's fast sunday!
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=eng">249 Called to serve</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=eng">128 When Faith Endures</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/called-to-serve?lang=spa">161</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=spa"> en Español: 68</a>
 </div>
 
 
@@ -96,10 +97,12 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-If You See This ask Angel I'm on vacation!
+If you see this ask President Orton: why he thinks the goverment outlaw penguins?
 
 also tell him this fun fact:
-cotton candy was created by a dentist!
+Never corner a penguin. 
+It's in situations like these that one's fight or flight reflex kicks in. 
+And penguins don't fly.
 
 <h3>New Gate Code: 3185</h3>
 ---
