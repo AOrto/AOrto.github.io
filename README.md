@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/c76840a5f0f711edb152eeeeac1e2d8f3a5a2219/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/75ff1afff0f511ed9e55eeeeac1e611bf017cc73/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/oh-may-my-soul-commune-with-thee?lang=eng">123 Oh May my Soul Commune </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-need-thee-every-hour?lang=eng">98 I need thee every hour </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/oh-may-my-soul-commune-with-thee?lang=eng">en Español: NA</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-need-thee-every-hour?lang=spa">en Español: 49</a>
 
 </div>
 
@@ -44,47 +44,42 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng"> 187 God Loved Us, So He Sent His Son </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-remembrance-of-thy-suffering?lang=eng"> 183 In remembrance of life suffering  </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=spa">en Español: 112</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-remembrance-of-thy-suffering?lang=spa">en Español: 110</a>
 </div>
 
 <div align="center">
   <h3>Administration of the Sacrament</h3>
 </div>
 
-<!---
+
 
 
 *Speaker*
-<div align="center"> TBA
+<div align="center"> Sister McMullin
 </div>
-
-
-
-
-
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know that my redeemer Lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/come-thou-fount-of-every-blessing?lang=eng">1001 Come thou fount of every blessing</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">73</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/come-thou-fount-of-every-blessing?lang=spa">en Español: 1001</a>
 </div>
---->
+
 
 *Speaker*  
 
-<div align="center"> You!!!!!! it's fast sunday!
+<div align="center"> Sister Thigpin
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=eng">128 When Faith Endures</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302 I know my Father lives</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=spa"> en Español: 68</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=spa"> en Español: 199</a>
 </div>
 
 
@@ -97,12 +92,9 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-If you see this ask President Orton: why he thinks the goverment outlaw penguins?
+If you see this ask President Orton: if he's ready for a pokemon battle?
 
-also tell him this fun fact:
-Never corner a penguin. 
-It's in situations like these that one's fight or flight reflex kicks in. 
-And penguins don't fly.
+also tell him this fun fact: only mario has sold more games then pokemon
 
 <h3>New Gate Code: 3185</h3>
 ---
