@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/75ff1afff0f511ed9e55eeeeac1e611bf017cc73/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/c8743267f0f711edb259eeeeac1eb568a68edaef/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-need-thee-every-hour?lang=eng">98 I need thee every hour </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/our-saviors-love?lang=eng">113 Our Savior’s Love  </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-need-thee-every-hour?lang=spa">en Español: 49</a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/our-saviors-love?lang=spa">en Español: 57 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-remembrance-of-thy-suffering?lang=eng"> 183 In remembrance of life suffering  </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng"> 172 In Humility, Our Savior  </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-remembrance-of-thy-suffering?lang=spa">en Español: 110</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=spa">en Español: 102</a>
 </div>
 
 <div align="center">
@@ -57,29 +57,29 @@
 
 
 *Speaker*
-<div align="center"> Sister McMullin
+<div align="center"> Brother Brunk
 </div>
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/come-thou-fount-of-every-blessing?lang=eng">1001 Come thou fount of every blessing</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/it-is-well-with-my-soul?lang=eng">1003 It is well with my Soul</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/come-thou-fount-of-every-blessing?lang=spa">en Español: 1001</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/it-is-well-with-my-soul?lang=spa">en Español: 1003</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Sister Thigpin
+<div align="center"> Brother Brother Fausset
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302 I know my Father lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116 Come Follow Me </a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=spa"> en Español: 199</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=spa"> en Español: 61</a>
 </div>
 
 
@@ -92,9 +92,9 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-If you see this ask President Orton: if he's ready for a pokemon battle?
+If you see this ask President Orton: whats his favorite conspiracy theory?
 
-also tell him this fun fact: only mario has sold more games then pokemon
+also tell him this fun fact: though some people believe the world is flat they are wrong its actually just hollow
 
 <h3>New Gate Code: 3185</h3>
 ---
