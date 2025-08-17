@@ -96,7 +96,7 @@ If you see this ask President Orton: whats his favorite conspiracy theory?
 
 also tell him this fun fact: though some people believe the world is flat they are wrong its actually just hollow
 
-<h3>New Gate Code: 3185</h3>
+<h3> Gate Code: 3185</h3>
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
