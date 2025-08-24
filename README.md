@@ -96,6 +96,7 @@ If you see this ask President Orton: if he was forced to choose fighting 100 chi
 
 also tell him this fun fact: the Jurassic park movies did not portray dinosaurs accurately but it did encourage many people to become paleontologists.
 
+also try to find the ducks
 <h3> Gate Code: 3185</h3>
 ---
 
