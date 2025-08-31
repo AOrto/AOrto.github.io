@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/96767f69f0f711eda20feeeeac1e5dee829956cf/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e3b34b63f0f711edac08eeeeac1eaa9782b85f5d/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-is-the-souls-sincere-desire?lang=eng">145 Prayer is the Soul’s Sincere Desire   </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/did-you-think-to-pray?lang=eng">140 Did you think to pray?   </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-is-the-souls-sincere-desire?lang=spa">en Español: 79 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/did-you-think-to-pray?lang=spa">en Español: 81 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-memory-of-the-crucified?lang=eng"> 190 In Memory of the Crucified </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-our-father-hear-us-pray?lang=eng"> 170 God, Our Father, Hear us Pray </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-memory-of-the-crucified?lang=spa">en Español: 115</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-our-father-hear-us-pray?lang=eng">en Español: 101</a>
 </div>
 
 <div align="center">
@@ -57,9 +57,10 @@
 
 
 *Speaker*
-<div align="center"> Sister Raber
+<div align="center"> Elder Coates
 </div>
 
+<!---
 *intermediate Hymn #*  
 
 <div align="center">
@@ -67,19 +68,19 @@
   
   <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/when-the-savior-comes-again?lang=spa">en Español: 1002</a>
 </div>
-
+--->
 
 *Speaker*  
 
-<div align="center"> Brother Raber
+<div align="center"> Elder Rodriguez
 </div>
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-gentle-gods-commands?lang=eng">125 How Gentle God’s Commands </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-believe-in-christ?lang=eng">134 I Believe in Christ</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/how-gentle-gods-commands?lang=spa"> en Español: 66</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-believe-in-christ?lang=spa"> en Español: 72</a>
 </div>
 
 
@@ -92,11 +93,14 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-If you see this ask President Orton: if he was forced to choose fighting 100 chickens or 1 t-rex which would he pick?
+If you see this ask President Orton: what came first the chicken or the duck?
 
-also tell him this fun fact: the Jurassic park movies did not portray dinosaurs accurately but it did encourage many people to become paleontologists.
+also tell him this fun fact: a ducks internal temperature is 107°F (38°C).
 
-also try to find the ducks
+also try to find the ducks hidden arround the building, dont move them though.
+
+they know what you did.
+
 <h3> Gate Code: 3185</h3>
 ---
 
