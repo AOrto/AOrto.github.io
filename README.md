@@ -97,7 +97,7 @@ If you see this ask President Orton: what came first the chicken or the duck?
 
 also tell him this fun fact: a ducks internal temperature is 107°F (38°C).
 
-also try to find the ducks hidden arround the building, dont move them though.
+also try to find the ducks hidden arround the building, but dont move them though.
 
 they know what you did.
 
