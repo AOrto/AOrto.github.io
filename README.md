@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-believe-in-christ?lang=eng">134 I Believe in Christ   </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/jesus-savior-pilot-me?lang=eng">104 Jesus, Savior, Pilot me </a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-believe-in-christ?lang=spa">en Español: 72 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/jesus-savior-pilot-me?lang=spa">en Español: 51 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=eng"> 137 Testimony </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/precious-savior-dear-redeemer?lang=eng"> 173 While of These Emblems we Partake </a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=spa">en Español: 75</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/precious-savior-dear-redeemer?lang=spa">en Español: 103</a>
 </div>
 
 <div align="center">
@@ -65,9 +65,9 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/when-the-savior-comes-again?lang=eng">1002 When the Savior Comes Again</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/as-i-keep-the-sabbath-day?lang=eng">1035 As I Keep the Sabbath Day</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/when-the-savior-comes-again?lang=spa">en Español: 1002</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/as-i-keep-the-sabbath-day?lang=spa">en Español: 1035</a>
 </div>
 
 
@@ -81,9 +81,9 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/well-sing-all-hail-to-jesus-name?lang=eng">182 We’ll Sing all Hail to Jesus‘s Name</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=eng">128 When Faith Endures</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/well-sing-all-hail-to-jesus-name?lang=spa"> en Español: 77</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/when-faith-endures?lang=eng"> en Español: 68</a>
 </div>
 
 
