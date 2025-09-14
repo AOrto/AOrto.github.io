@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/7d1c5212f10211eda33beeeeac1e8acd8c6d8e0b/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/b80224f1f0f711ed8699eeeeac1eaba9211bcc6b/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -57,10 +57,11 @@
 
 
 *Speaker*
-<div align="center"> YOU!!!!! it's fast and testimony meeting
+<div align="center">Sister Mantadamas
 </div>
 
 <!---
+--->
 *intermediate Hymn #*  
 
 <div align="center">
@@ -72,9 +73,9 @@
 
 *Speaker*  
 
-<div align="center"> Elder Rodriguez
+<div align="center"> Brother Mantadamas
 </div>
---->
+
 
 
 *Closing Hymn #*  
