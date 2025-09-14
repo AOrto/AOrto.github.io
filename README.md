@@ -96,9 +96,9 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-If you see this ask President Orton: why he refuses to watch Walt Disneys Hunch Back of Notre Dame?
+If you see this ask President Orton: why he thinks madagascar is a cinematic master piece?
 
-also tell him this fun fact: in the original novel frollo is head priest and quasimodo is his nephew, they changed this in the disney version fearing backlash from the catholic church.
+also tell him this fun fact: madagascar does not have penguins so its odd they want to go to madagascar in the movie.
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
