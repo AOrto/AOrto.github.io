@@ -98,7 +98,7 @@
 
 
 
-October 25:  Branch Coat and Warm Clothing Giveaway.  We are currently collecting coats and other warm clothing to give away to the Corcoran Community.  Please donate any of those items that you no longer need but that are in good condition.  Items may be brought to the church for storage before the event.
+October 25:  Branch Coat and Warm Clothing Giveaway.  We are currently collecting coats and other warm clothing to give away to the Corcoran Community.  Please donate any of those items that you no longer need but that are in good condition.  Items may be brought to the church for storage before the event. for more information contact brother Curtis.
 
 November 1 Branch Pinewood Derby
 
