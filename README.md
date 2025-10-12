@@ -23,7 +23,7 @@
 <div align="center">Sister Tinney</div>
 
 *Chorister*  
-<div align="center">Sister Orton</div>
+<div align="center">Sister Oberst</div>
 
 ---
 
