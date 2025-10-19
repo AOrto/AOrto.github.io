@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/16522aa30fcd11eeb1b0eeeeac1e286bde3ce277/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e1247f630fca11ee9676eeeeac1edafa336c7f99/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -17,7 +17,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Orton</div>
+<div align="center">President Thigpin</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=eng">136 I Know That My Redeemer Lives</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/secret-prayer?lang=eng">144 Secret Prayer</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-that-my-redeemer-lives?lang=spa">en Español: 73 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/secret-prayer?lang=spa">en Español: 80 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-god-the-eternal-father?lang=eng"> 	175 O God, the Eternal Father</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=eng"> 	184 Upon the Cross of Calvary</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-god-the-eternal-father?lang=eng">en Español: 104</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=spa">en Español: 111</a>
 </div>
 
 <div align="center">
@@ -57,33 +57,34 @@
 
 
 *Speaker*
-<div align="center"> YOU!!!! it's Fast Sunday!!!!
+<div align="center"> To Be Announced
 </div>
 
 <!---
+--->
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/amazing-grace?lang=eng">1010 Amazing Grace</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=eng">1005 His Eye Is on the Sparrow	</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/amazing-grace?lang=spa">en Español: 1010</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=spa">en Español: 1005</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> The Missionaries
+<div align="center"> To Be Announced
 </div>
 
---->
+
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/gently-raise-the-sacred-strain?lang=eng">146 Gently Raise the Sacred Strain</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/where-can-i-turn-for-peace?lang=eng">129 Where Can I Turn for Peace?</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/gently-raise-the-sacred-strain?lang=spa"> en Español: 83</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/where-can-i-turn-for-peace?lang=spa"> en Español: 69</a>
 </div>
 
 
@@ -102,9 +103,9 @@ October 25:  Branch Coat and Warm Clothing Giveaway.  We are currently collectin
 
 November 1 Branch Pinewood Derby
 
-If you see this ask President Orton: do you know the muffin man?
+If you see this ask President Orton: what is his favorite scary movie?
 
-also tell him this fun fact: he "Muffin Man" originates from an English nursery rhyme, first written down around 1820 and based on the real-life "muffin men" who delivered fresh, savory English muffins door-to-door in 19th-century London.
+also tell him this fun fact: The Mummy writer John Lloyd Balderston was a foreign correspondent for New York World, and he wrote extensively about the opening of Tutankhamun’s tomb in 1922. Originally, Universal’s film was going to follow a 300-year-old magician living in San Francisco, but when Balderston joined the project, he moved the story to Egypt, renamed the main character Imhotep, and focused in on the Scroll of Thoth..
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
