@@ -57,7 +57,11 @@
 
 
 *Speaker*
-<div align="center"> To Be Announced
+<div align="center"> Tobias Lee
+</div>
+
+*Speaker*
+<div align="center"> Maggie Lee
 </div>
 
 <!---
@@ -74,7 +78,7 @@
 
 *Speaker*  
 
-<div align="center"> To Be Announced
+<div align="center"> Brother Lee
 </div>
 
 
