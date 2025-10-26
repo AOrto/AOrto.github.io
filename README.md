@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e1247f630fca11ee9676eeeeac1edafa336c7f99/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e36e21440fca11ee989deeeeac1ee8a3c37f725d/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/secret-prayer?lang=eng">144 Secret Prayer</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-unto-jesus?lang=eng">117 Come Unto Jesus</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/secret-prayer?lang=spa">en Español: 80 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-unto-jesus?lang=spa">en Español: 60 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=eng"> 	184 Upon the Cross of Calvary</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 	169 As Now We Take the Sacrament</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=spa">en Español: 111</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=spa">en Español: NA</a>
 </div>
 
 <div align="center">
@@ -57,28 +57,28 @@
 
 
 *Speaker*
-<div align="center"> Tobias Lee
+<div align="center"> Samantha Mitchell
 </div>
 
+<!---
 *Speaker*
 <div align="center"> Maggie Lee
 </div>
 
-<!---
 --->
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=eng">1005 His Eye Is on the Sparrow	</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=eng">1011 Holding Hands Around the World	 </a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/his-eye-is-on-the-sparrow?lang=spa">en Español: 1005</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=spa">en Español: 1011</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Brother Lee
+<div align="center"> Riley Mitchell
 </div>
 
 
@@ -86,9 +86,9 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/where-can-i-turn-for-peace?lang=eng">129 Where Can I Turn for Peace?</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=eng">105 Master, the Tempest Is Raging</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/where-can-i-turn-for-peace?lang=spa"> en Español: 69</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=spa"> en Español: 54</a>
 </div>
 
 
@@ -103,17 +103,16 @@
 
 
 
-October 25:  Branch Coat and Warm Clothing Giveaway.  We are currently collecting coats and other warm clothing to give away to the Corcoran Community.  Please donate any of those items that you no longer need but that are in good condition.  Items may be brought to the church for storage before the event. for more information contact brother Curtis.
 
 November 1 Branch Pinewood Derby
 
-If you see this ask President Orton: what is his favorite scary movie?
+If you see this ask President Orton: what hes dressing up as for halloween?
 
-also tell him this fun fact: The Mummy writer John Lloyd Balderston was a foreign correspondent for New York World, and he wrote extensively about the opening of Tutankhamun’s tomb in 1922. Originally, Universal’s film was going to follow a 300-year-old magician living in San Francisco, but when Balderston joined the project, he moved the story to Egypt, renamed the main character Imhotep, and focused in on the Scroll of Thoth..
+Also tell him this fun fact: Halloween is even older than Christianity itself. It all started as a pre-Christian Celtic festival called Samhain, which means "summer's end." 
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
-the always remember.
+they always remember.
 
 <h3> Gate Code: 3185</h3>
 ---
