@@ -23,7 +23,7 @@
 <div align="center">Sister Tinney</div>
 
 *Chorister*  
-<div align="center">Sister Oberst</div>
+<div align="center">Sister Orton</div>
 
 ---
 
@@ -70,9 +70,9 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=eng">1011 Holding Hands Around the World	 </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=eng">223 Have I done any good </a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=spa">en Español: 1011</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=spa">en Español: NA</a>
 </div>
 
 
