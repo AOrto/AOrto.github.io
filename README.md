@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e36e21440fca11ee989deeeeac1ee8a3c37f725d/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e546b1d20fca11eeb32deeeeac1e4714652553b9/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -87,9 +87,9 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=eng">163 Lord, Dismiss Us with Thy Blessing</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/lord-dismiss-us-with-thy-blessing?lang=eng">163 Lord, Dismiss Us with Thy Blessing</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=spa"> en Español: 100</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/lord-dismiss-us-with-thy-blessing?lang=spa"> en Español: 100</a>
 </div>
 
 
@@ -107,9 +107,9 @@
 
 November 1 Branch Pinewood Derby
 
-If you see this ask President Orton: what hes dressing up as for halloween?
+If you see this ask President Orton: what his favorite turkey carols are?
 
-Also tell him this fun fact: Halloween is even older than Christianity itself. It all started as a pre-Christian Celtic festival called Samhain, which means "summer's end." 
+Also tell him this fun fact: the first feast lasted three days and was not a yearly tradition until President Lincoln made it a national holiday in 1863." 
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
