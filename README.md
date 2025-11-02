@@ -17,7 +17,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Thigpin</div>
+<div align="center">President Prater</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
