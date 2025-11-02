@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-unto-jesus?lang=eng">117 Come Unto Jesus</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=eng">93 Prayer of Thanksgiving</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-unto-jesus?lang=spa">en Español: 60 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=spa">en Español: 45 </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 	169 As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=eng"> 	194 There Is A Green Hill Far Away</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=spa">en Español: NA</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=spa">en Español: 119</a>
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 
 
 *Speaker*
-<div align="center"> Samantha Mitchell
+<div align="center"> YOU!!! Its fast sunday!!!
 </div>
 
 <!---
@@ -65,7 +65,7 @@
 <div align="center"> Maggie Lee
 </div>
 
---->
+
 
 *intermediate Hymn #*  
 
@@ -80,15 +80,16 @@
 
 <div align="center"> Riley Mitchell
 </div>
+--->
 
 
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=eng">105 Master, the Tempest Is Raging</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=eng">163 Lord, Dismiss Us with Thy Blessing</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=spa"> en Español: 54</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/master-the-tempest-is-raging?lang=spa"> en Español: 100</a>
 </div>
 
 
