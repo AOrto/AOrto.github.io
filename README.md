@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e546b1d20fca11eeb32deeeeac1e4714652553b9/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e34ae1d20fca11ee85fdeeeeac1e9e7ce50052fa/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=eng">93 Prayer of Thanksgiving</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/now-thank-we-all-our-god?lang=eng">95 Now Thank We All Our God</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=spa">en Español: 45 </a>
+   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/now-thank-we-all-our-god?lang=spa">en Español: none </a>
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=eng"> 	194 There Is A Green Hill Far Away</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng"> 	177 'Tis Sweet To Sing the Matchless Love</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/there-is-a-green-hill-far-away?lang=spa">en Español: 119</a>
+<a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=spa">en Español: 106</a>
 </div>
 
 <div align="center">
@@ -57,39 +57,39 @@
 
 
 *Speaker*
-<div align="center"> YOU!!! Its fast sunday!!!
+<div align="center"> Brother Prater
 </div>
 
 <!---
 *Speaker*
 <div align="center"> Maggie Lee
 </div>
-
+--->
 
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=eng">223 Have I done any good </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=eng">1021 I Know That My Savior Loves Me </a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/holding-hands-around-the-world?lang=spa">en Español: NA</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=spa">en Español: 1021</a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Riley Mitchell
+<div align="center"> President Hale
 </div>
---->
+
 
 
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/lord-dismiss-us-with-thy-blessing?lang=eng">163 Lord, Dismiss Us with Thy Blessing</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/dearest-children-god-is-near-you?lang=eng">	96 Dearest Children, God is Near You</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/lord-dismiss-us-with-thy-blessing?lang=spa"> en Español: 100</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/dearest-children-god-is-near-you?lang=spa"> en Español: 47</a>
 </div>
 
 
@@ -105,11 +105,11 @@
 
 
 
-November 1 Branch Pinewood Derby
+November 15th is a youth temple trip if you plan to attend please talk to your youth leaders
 
-If you see this ask President Orton: what his favorite turkey carols are?
+If you see this ask President Orton: if he could combine any holidays together what would they be?
 
-Also tell him this fun fact: the first feast lasted three days and was not a yearly tradition until President Lincoln made it a national holiday in 1863." 
+Also tell him this fun fact:  The country and the bird are named the same due to an accidental historical confusion: the American bird was called a "turkey" because it was mistaken for or resembled the guinea fowl, a bird that was imported to Europe from Africa via Turkey
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
