@@ -70,7 +70,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=eng">TBA </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-am-a-child-of-god?lang=eng">301 I am a Child of God </a>
   
 
 </div>
