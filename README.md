@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e34ae1d20fca11ee85fdeeeeac1e9e7ce50052fa/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e0c40fe30fca11ee8a84eeeeac1e8fb34effbf46/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,9 +29,9 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/now-thank-we-all-our-god?lang=eng">95 Now Thank We All Our God</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/abide-with-me-tis-eventide?lang=eng">165 Abide with Me; 'Tis Eventide</a>
   
-   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/now-thank-we-all-our-god?lang=spa">en Español: none </a>
+
 
 </div>
 
@@ -44,9 +44,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng"> 	177 'Tis Sweet To Sing the Matchless Love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 	171 With Humble Heart</a>
 
-<a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=spa">en Español: 106</a>
+
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 
 
 *Speaker*
-<div align="center"> Brother Prater
+<div align="center"> Brother Hatfield
 </div>
 
 <!---
@@ -70,15 +70,15 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=eng">1021 I Know That My Savior Loves Me </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=eng">TBA </a>
   
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/i-know-that-my-savior-loves-me-release-3?lang=spa">en Español: 1021</a>
+
 </div>
 
 
 *Speaker*  
 
-<div align="center"> President Hale
+<div align="center"> Sister Hatfield
 </div>
 
 
@@ -87,9 +87,9 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/dearest-children-god-is-near-you?lang=eng">	96 Dearest Children, God is Near You</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/sing-we-now-at-parting?lang=eng">		156 Sing We Now At Parting</a>
   
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/dearest-children-god-is-near-you?lang=spa"> en Español: 47</a>
+
 </div>
 
 
@@ -105,11 +105,11 @@
 
 
 
-November 15th is a youth temple trip if you plan to attend please talk to your youth leaders
 
-If you see this ask President Orton: if he could combine any holidays together what would they be?
 
-Also tell him this fun fact:  The country and the bird are named the same due to an accidental historical confusion: the American bird was called a "turkey" because it was mistaken for or resembled the guinea fowl, a bird that was imported to Europe from Africa via Turkey
+If you see this ask President Orton: about the gost of christmas presents children?
+
+Also tell him this fun fact:  The phrase "dead as a doornail" originated in the 14th century, likely from the practice of clinching nails in carpentry to make them secure. To clinch a nail, it was hammered through the wood, and the protruding end was bent over and hammered flat against the surface, making the nail permanently fixed and useless for any other purpose
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
