@@ -107,7 +107,7 @@
 
 
 
-If you see this ask President Orton: about the ghosy of christmas presents children?
+If you see this ask President Orton: about the Ghost of Christmas Present children?
 
 Also tell him this fun fact:  The phrase "dead as a doornail" originated in the 14th century, likely from the practice of clinching nails in carpentry to make them secure. To clinch a nail, it was hammered through the wood, and the protruding end was bent over and hammered flat against the surface, making the nail permanently fixed and useless for any other purpose
 
