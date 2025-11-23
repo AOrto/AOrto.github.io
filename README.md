@@ -29,7 +29,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/abide-with-me-tis-eventide?lang=eng">165 Abide with Me; 'Tis Eventide</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92 For the Beauty of the Earth</a>
   
 
 
@@ -44,7 +44,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 	171 With Humble Heart</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/reverently-and-meekly-now?lang=eng"> 		185 Reverently and Meekly Now</a>
 
 
 </div>
@@ -70,7 +70,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-am-a-child-of-god?lang=eng">301 I am a Child of God </a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/faith-in-every-footstep-release-3?lang=eng">1022 Faith in Every Footstep</a>
   
 
 </div>
@@ -78,7 +78,7 @@
 
 *Speaker*  
 
-<div align="center"> Sister Hatfield
+<div align="center"> Sister Prater
 </div>
 
 
@@ -87,7 +87,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/sing-we-now-at-parting?lang=eng">		156 Sing We Now At Parting</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-ye-thankful-people?lang=eng">		94 Come, Ye Thankful People</a>
   
 
 </div>
@@ -107,9 +107,9 @@
 
 
 
-If you see this ask President Orton: about the Ghost of Christmas Present's children?
+If you see this ask President Orton: how many versions of a christmas carol has he seen?
 
-Also tell him this fun fact:  The phrase "dead as a doornail" originated in the 14th century, likely from the practice of clinching nails in carpentry to make them secure. To clinch a nail, it was hammered through the wood, and the protruding end was bent over and hammered flat against the surface, making the nail permanently fixed and useless for any other purpose
+Also tell him this fun fact:  The Internet Movie Database lists more than 100 versions of A Christmas Carol, including a video game, a 1908 short starring Tom Ricketts (an English actor who also reportedly directed the first movie ever shot in Hollywood), and the 2015 TV-movie A Christmas Carol and Zombies
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
