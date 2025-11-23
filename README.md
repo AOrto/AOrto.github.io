@@ -70,7 +70,8 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/faith-in-every-footstep-release-3?lang=eng">1022 Faith in Every Footstep</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302 I Know My Father Lives
+</a>
   
 
 </div>
