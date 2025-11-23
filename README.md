@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e0c40fe30fca11ee8a84eeeeac1e8fb34effbf46/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/ee7636d10fc611eea859eeeeac1ec62cc09e8813/full/!1280%2C/0/default" alt="Logo">
 </div>
 
 <!---
