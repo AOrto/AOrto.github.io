@@ -29,7 +29,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92 For the Beauty of the Earth</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=eng">201 Joy to the World</a>
   
 
 
@@ -44,7 +44,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/reverently-and-meekly-now?lang=eng"> 		185 Reverently and Meekly Now</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng"> 		193 I Stand All Amazed</a>
 
 
 </div>
@@ -57,7 +57,7 @@
 
 
 *Speaker*
-<div align="center"> Brother Hatfield
+<div align="center"> Sister Curtis
 </div>
 
 <!---
@@ -70,7 +70,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302 I Know My Father Lives
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=eng">209 Hark! The Harold Angels Sing
 </a>
   
 
@@ -79,7 +79,7 @@
 
 *Speaker*  
 
-<div align="center"> Sister Prater
+<div align="center"> Sister Curtis
 </div>
 
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-ye-thankful-people?lang=eng">		94 Come, Ye Thankful People</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/while-shepherds-watched-their-flocks?lang=eng">211 While Shepherds Watched Their Flocks</a>
   
 
 </div>
@@ -108,7 +108,7 @@
 
 
 
-If you see this ask President Orton: how many versions of a christmas carol has he seen?
+If you see this ask President Orton: about the time he thought aliens abducted him only to find out he joined a weird cult
 
 Also tell him this fun fact:  The Internet Movie Database lists more than 100 versions of A Christmas Carol, including a video game, a 1908 short starring Tom Ricketts (an English actor who also reportedly directed the first movie ever shot in Hollywood), and the 2015 TV-movie A Christmas Carol and Zombies
 
