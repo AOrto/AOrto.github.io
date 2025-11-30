@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/ee7636d10fc611eea859eeeeac1ec62cc09e8813/full/!1280%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/28dcfb630fcc11eeb32eeeeeac1ec78bfc5db47e/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -110,7 +110,7 @@
 
 If you see this ask President Orton: about the time he thought aliens abducted him only to find out he joined a weird cult
 
-Also tell him this fun fact:  The Internet Movie Database lists more than 100 versions of A Christmas Carol, including a video game, a 1908 short starring Tom Ricketts (an English actor who also reportedly directed the first movie ever shot in Hollywood), and the 2015 TV-movie A Christmas Carol and Zombies
+Also tell him this fun fact: scientists have been searching for it since 1992 using radio telescopes and a planet around the star K2-18b is a promising candidate for hosting life
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
