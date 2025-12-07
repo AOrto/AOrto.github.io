@@ -29,7 +29,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=eng">205 Once In Royal David's City</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/once-in-royal-davids-city?lang=eng">205 Once In Royal David's City</a>
   
 
 
@@ -44,7 +44,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng"> 179 Again, Our Redeeming Lord</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/again-our-dear-redeeming-lord?lang=eng"> 179 Again, Our Redeeming Lord</a>
 
 
 </div>
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/while-shepherds-watched-their-flocks?lang=eng">203 Angels We Have Heard On High</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/angels-we-have-heard-on-high?lang=eng">203 Angels We Have Heard On High</a>
   
 
 </div>
