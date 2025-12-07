@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/28dcfb630fcc11eeb32eeeeeac1ec78bfc5db47e/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/faa989230fc611eea6adeeeeac1ed19739f12cb0/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,7 +29,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=eng">201 Joy to the World</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=eng">205 Once In Royal David's City</a>
   
 
 
@@ -44,7 +44,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng"> 		193 I Stand All Amazed</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-stand-all-amazed?lang=eng"> 179 Again, Our Redeeming Lord</a>
 
 
 </div>
@@ -54,17 +54,17 @@
 </div>
 
 
-
+<!---
 
 *Speaker*
 <div align="center"> Sister Curtis
 </div>
 
-<!---
+
 *Speaker*
 <div align="center"> Maggie Lee
 </div>
---->
+
 
 
 *intermediate Hymn #*  
@@ -73,13 +73,13 @@
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=eng">209 Hark! The Harold Angels Sing
 </a>
   
-
+--->
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Sister Curtis
+<div align="center"> YOU!!! It's fast sunday!!!
 </div>
 
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/while-shepherds-watched-their-flocks?lang=eng">211 While Shepherds Watched Their Flocks</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/while-shepherds-watched-their-flocks?lang=eng">203 Angels We Have Heard On High</a>
   
 
 </div>
@@ -108,9 +108,9 @@
 
 
 
-If you see this ask President Orton: about the time he thought aliens abducted him only to find out he joined a weird cult
+If you see this ask President Orton: whether he would clone himself or not?
 
-Also tell him this fun fact: scientists have been searching for it since 1992 using radio telescopes and a planet around the star K2-18b is a promising candidate for hosting life
+Also tell him this fun fact: Fully cloning a human is banned under the EU Charter of Fundamental Rights.
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
