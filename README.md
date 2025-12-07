@@ -17,13 +17,13 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Prater</div>
+<div align="center">President Orton</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
 
 *Chorister*  
-<div align="center">Sister Orton</div>
+<div align="center">Sister Oberst</div>
 
 ---
 
