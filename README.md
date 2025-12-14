@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/faa989230fc611eea6adeeeeac1ed19739f12cb0/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e38a0db50fca11ee989deeeeac1ee8a3fa29632d/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 <!---
@@ -29,7 +29,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/once-in-royal-davids-city?lang=eng">205 Once In Royal David's City</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/oh-come-all-ye-faithful?lang=eng">202 Oh, Come, All Ye Faithful</a>
   
 
 
@@ -44,7 +44,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/again-our-dear-redeeming-lord?lang=eng"> 179 Again, Our Redeeming Lord</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/thy-will-o-lord-be-done?lang=eng"> 188 Thy Will, O Lord, Be Done</a>
 
 
 </div>
@@ -55,14 +55,14 @@
 
 
 <!---
-
+--->
 *Speaker*
 <div align="center"> Sister Curtis
 </div>
 
 
 *Speaker*
-<div align="center"> Maggie Lee
+<div align="center"> Brother Bochman
 </div>
 
 
@@ -70,16 +70,16 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=eng">209 Hark! The Harold Angels Sing
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/star-bright?lang=eng">1204 Star Bright
 </a>
   
---->
+
 </div>
 
 
 *Speaker*  
 
-<div align="center"> YOU!!! It's fast sunday!!!
+<div align="center"> Sister Bochman
 </div>
 
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/angels-we-have-heard-on-high?lang=eng">203 Angels We Have Heard On High</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=eng">209 Hark! The Herald Angels Sing</a>
   
 
 </div>
@@ -102,15 +102,17 @@
 <div align="center">
   <h2>Corcoran Announcements:</h2>
 </div>
+21st od December will be the Christmas sacrement so we will not be having a second hour
+
+if you wanna the Trek sign up now!!!!!
 
 
 
 
 
+If you see this ask President Orton: What he thinks a dyson sphere is?
 
-If you see this ask President Orton: whether he would clone himself or not?
-
-Also tell him this fun fact: Fully cloning a human is banned under the EU Charter of Fundamental Rights.
+Also tell him this fun fact: A Dyson sphere is a hypothetical megastructure that an advanced civilization could build around a star to capture a large portion of its energy output.
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
