@@ -103,6 +103,7 @@
 <div align="center">
   <img src="https://www.churchofjesuschrist.org/imgs/d2181d8fc63b27c70fa1c0385f5605c2f73b3965/full/3840%2C/0/default" alt="Logo">
 </div>
+
 *The Birth of Jesus*  
 *by Carl Heinrich Bloch*
 
