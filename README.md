@@ -100,6 +100,12 @@
 <div align="center">To be Announced</div>
 --->
 
+<div align="center">
+  <img src="https://www.churchofjesuschrist.org/imgs/d2181d8fc63b27c70fa1c0385f5605c2f73b3965/full/3840%2C/0/default" alt="Logo">
+</div>
+*The Birth of Jesus*  
+*by Carl Heinrich Bloch*
+
 # 🎄 Merry Christmas  
 ## from the Corcoran Branch Presidency
 
@@ -132,12 +138,7 @@ more grateful and more generous in sharing our abundance with those in need.”*
 
 **THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS**
 
----
 
-*The Birth of Jesus*  
-*by Carl Heinrich Bloch*
-
----
 
 ## 🎶 Sacrament Meeting
 
@@ -242,17 +243,20 @@ more grateful and more generous in sharing our abundance with those in need.”*
 <div align="center">
   <h2>Corcoran Announcements:</h2>
 </div>
-21st od December will be the Christmas sacrement so we will not be having a second hour
+ December 22nd 2pm Stake Youth Ice Skating in Hanford.  Signed Parent Permission Form Required.
 
-if you wanna the Trek sign up now!!!!!
+Youth that plan on attending the Stake Youth Handcart Trek need to register by year end.  Don't delay.  See your youth leader if you need assistance registering online so they can get your parents the registration information.
+
+December 31 Tri Stake New Years Youth Dance in Porterville.  Formal Attire Required.
 
 
 
 
 
-If you see this ask President Orton: What he thinks a dyson sphere is?
+If you see this tell President Orton: Marry Christmas!!
 
-Also tell him this fun fact: A Dyson sphere is a hypothetical megastructure that an advanced civilization could build around a star to capture a large portion of its energy output.
+Also tell him this fun fact: Christmas was once outlawed in England (1647-1660) and Boston (1659-1681) for being too rowdy.
+
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
