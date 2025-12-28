@@ -115,9 +115,9 @@ December 31 Tri Stake New Years Youth Dance in Porterville.  Formal Attire Requi
 
 
 
-If you see this tell President Orton: Marry Christmas!!
+If you see this ask President Orton: why he doesnt like animated films?
 
-Also tell him this fun fact: Christmas was once outlawed in England (1647-1660) and Boston (1659-1681) for being too rowdy.
+Also tell him this fun fact: The ideas for Wall-E, Monsters Inc, A Bug's Life and Finding Nemo came from a single lunchtime brainstorming session in 1994, before the first Toy Story film was even finished.
 
 
 also try to find the ducks hidden arround the building, but dont move them though.
