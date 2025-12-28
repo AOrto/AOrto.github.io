@@ -59,15 +59,15 @@
 
 
 *Speaker*
-<div align="center"> TBA
+<div align="center"> Sister Ashby
 </div>
 
 <!---
---->
+
 *Speaker*
 <div align="center"> TBA
 </div>
-
+--->
 
 
 *intermediate Hymn #*  
@@ -82,7 +82,7 @@
 
 *Speaker*  
 
-<div align="center"> TBA
+<div align="center"> Brother Ashby
 </div>
 
 
