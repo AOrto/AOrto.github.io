@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e38a82e20fca11eeb32eeeeeac1ec78b91381378/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/1209cc49c9f011ee893eeeeeac1ef26f2aee139a/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/go-tell-it-on-the-mountain?lang=eng">1208 Go Tell It On The Mountain</a>
+  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/we-are-all-enlisted?lang=eng">250 We are all enlisted </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/jesus-of-nazareth-savior-and-king?lang=eng"> 	181 Jesus of Nazareth, Savior and King</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 	171 With Humble Heart</a>
 
 
 </div>
@@ -67,7 +67,7 @@
 *Speaker*
 <div align="center"> TBA
 </div>
---->
+
 
 
 *intermediate Hymn #*  
@@ -79,10 +79,10 @@
 
 </div>
 
-
+--->
 *Speaker*  
 
-<div align="center"> Brother Ashby
+<div align="center"> You!!! its fast Sunday!!!!
 </div>
 
 
@@ -91,7 +91,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/ring-out-wild-bells?lang=eng">215 Ring Out, Wild Bells</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng">27 Praise to the Man</a>
   
 
 </div>
@@ -109,16 +109,14 @@
  
 Youth that plan on attending the Stake Youth Handcart Trek need to register by year end.  Don't delay.  See your youth leader if you need assistance registering online so they can get your parents the registration information.
 
-December 31 Tri Stake New Years Youth Dance in Porterville.  Formal Attire Required.
+January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin board for your assignment.  
 
 
 
 
+If you see this ask President Orton: whose better dracula or Frankenstein
 
-If you see this ask President Orton: why he doesnt like animated films?
-
-Also tell him this fun fact: The ideas for Wall-E, Monsters Inc, A Bug's Life and Finding Nemo came from a single lunchtime brainstorming session in 1994, before the first Toy Story film was even finished.
-
+Also tell him this fun fact: The 1931 film of Dracula is considered the first official, sanctioned version of Bram Stoker’s famous vampire appearing in a movie, but it is not the first film to be inspired by Stoker’s classic novel. F.W. Murnau’s Nosfertau in 1922 is the most famous example, but even before that there was reportedly a Hungarian film called Dracula’s Death in 1921, however prints of it are thought to be lost
 
 also try to find the ducks hidden arround the building, but dont move them though.
 
