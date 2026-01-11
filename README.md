@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/1209cc49c9f011ee893eeeeeac1ef26f2aee139a/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/79fbe260c9dd11ee990ceeeeac1e72b931d30953/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -19,7 +19,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Orton</div>
+<div align="center">President Thigpin</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/we-are-all-enlisted?lang=eng">250 We are all enlisted </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/glory-to-god-on-high?lang=eng">67 Glory to God on High </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 	171 With Humble Heart</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng"> 172 In Humility, Our Savior</a>
 
 
 </div>
@@ -57,15 +57,14 @@
 
 
 
-
+<!---
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
 
-<!---
-
+--->
 *Speaker*
-<div align="center"> TBA
+<div align="center"> Brother Castro
 </div>
 
 
@@ -73,16 +72,16 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/music/hymns-for-home-and-church/what-child-is-this?lang=eng">1203 What Child Is This?
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng">252 Put Your Shoulder to the Wheel
 </a>
   
 
 </div>
 
---->
+
 *Speaker*  
 
-<div align="center"> You!!! its fast Sunday!!!!
+<div align="center"> Sister Petersen
 </div>
 
 
@@ -91,7 +90,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng">27 Praise to the Man</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-be-with-you-till-we-meet-again?lang=eng">152 God Be with You Till We Meet Again</a>
   
 
 </div>
@@ -114,10 +113,9 @@ January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin 
 
 
 
-If you see this ask President Orton: whose better dracula or Frankenstein
+If you see this ask President Orton: would he visit jurrassic park knowing that there is a 5% chance everyday he's there that the dinosaurs break out and he has to stay for minimum of 3 days?
 
-Also tell him this fun fact: The 1931 film of Dracula is considered the first official, sanctioned version of Bram Stoker’s famous vampire appearing in a movie, but it is not the first film to be inspired by Stoker’s classic novel. F.W. Murnau’s Nosfertau in 1922 is the most famous example, but even before that there was reportedly a Hungarian film called Dracula’s Death in 1921, however prints of it are thought to be lost
-
+Also tell him this fun fact: Despite being called "Jurassic Park" and having the reputation of being the movie that is all about dinosaurs (and vastly re-popularized them), the creatures only have around fifteen minutes of screen time: nine minutes are Stan Winston's animatronics, and six minutes of it is Industrial Light & Magic CGI. This means only around 11% of the film is dedicated to dinosaur scenes.
 also try to find the ducks hidden arround the building, but dont move them though.
 
 they always remember.
