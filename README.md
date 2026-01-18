@@ -19,13 +19,13 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">President Thigpin</div>
+<div align="center">Brother Thigpin</div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
 
 *Chorister*  
-<div align="center">Sister Oberst</div>
+<div align="center">Sister Orton</div>
 
 ---
 
