@@ -117,6 +117,8 @@ January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin 
 
 
 If you see this ask President Orton: you have 24 hours where laws don't effect you what are you gonna do, there are no consequences?
+
+
 Also tell him this fun fact: The Code of Ur-Nammu is the oldest known surviving law code. It is from Mesopotamia and is written on tablets, in the Sumerian language
 
 they always remember.
