@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/79fbe260c9dd11ee990ceeeeac1e72b931d30953/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/b33515a2c9dd11eebdeeeeeeac1e04d915e64441/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/glory-to-god-on-high?lang=eng">67 Glory to God on High </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/welcome-welcome-sabbath-morning?lang=eng">280 Welcome, Welcome, Sabbath Morning </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/in-humility-our-savior?lang=eng"> 172 In Humility, Our Savior</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng"> 192 He Died! The Great Redeemer Died</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 
 --->
 *Speaker*
-<div align="center"> Brother Castro
+<div align="center"> Sister Hatfield
 </div>
 
 
@@ -72,7 +72,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/put-your-shoulder-to-the-wheel?lang=eng">252 Put Your Shoulder to the Wheel
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod
 </a>
   
 
@@ -81,7 +81,7 @@
 
 *Speaker*  
 
-<div align="center"> Sister Petersen
+<div align="center"> Brother Hatfield
 </div>
 
 
@@ -90,7 +90,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-be-with-you-till-we-meet-again?lang=eng">152 God Be with You Till We Meet Again</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/let-us-oft-speak-kind-words?lang=eng">232 Let Us Oft Speak Kind Words</a>
   
 
 </div>
@@ -106,6 +106,9 @@
   <h2>Corcoran Announcements:</h2>
 </div>
  
+Jan 25 Stake Youth Fireside 
+Scheduled: Jan 25, 2026 at 6:00 PM
+
 Youth that plan on attending the Stake Youth Handcart Trek need to register by year end.  Don't delay.  See your youth leader if you need assistance registering online so they can get your parents the registration information.
 
 January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin board for your assignment.  
@@ -113,10 +116,8 @@ January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin 
 
 
 
-If you see this ask President Orton: would he visit jurrassic park knowing that there is a 5% chance everyday he's there that the dinosaurs break out and he has to stay for minimum of 3 days?
-
-Also tell him this fun fact: Despite being called "Jurassic Park" and having the reputation of being the movie that is all about dinosaurs (and vastly re-popularized them), the creatures only have around fifteen minutes of screen time: nine minutes are Stan Winston's animatronics, and six minutes of it is Industrial Light & Magic CGI. This means only around 11% of the film is dedicated to dinosaur scenes.
-also try to find the ducks hidden arround the building, but dont move them though.
+If you see this ask President Orton: you have 24 hours where laws don't effect you what are you gonna do, there are no consequences?
+Also tell him this fun fact: The Code of Ur-Nammu is the oldest known surviving law code. It is from Mesopotamia and is written on tablets, in the Sumerian language
 
 they always remember.
 
