@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/b33515a2c9dd11eebdeeeeeeac1e04d915e64441/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/ed363c31a65c11edb88feeeeac1e7e5f7866b805/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/welcome-welcome-sabbath-morning?lang=eng">280 Welcome, Welcome, Sabbath Morning </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19 We thank thee, oh God, for a Prophet </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-died-the-great-redeemer-died?lang=eng"> 192 He Died! The Great Redeemer Died</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-lord-of-hosts?lang=eng"> 178 O Lord of Hosts</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 
 --->
 *Speaker*
-<div align="center"> Sister Hatfield
+<div align="center"> TBA
 </div>
 
 
@@ -72,7 +72,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/the-iron-rod?lang=eng">274 The Iron Rod
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/love-one-another?lang=eng">308 Love on Another
 </a>
   
 
@@ -81,7 +81,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Hatfield
+<div align="center"> TBA
 </div>
 
 
@@ -90,7 +90,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/let-us-oft-speak-kind-words?lang=eng">232 Let Us Oft Speak Kind Words</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/choose-the-right?lang=eng">239 Choose The Right</a>
   
 
 </div>
@@ -116,10 +116,9 @@ January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin 
 
 
 
-If you see this ask President Orton: you have 24 hours where laws don't effect you what are you gonna do, there are no consequences?
+If you see this ask President Orton: why he loves racoons?
 
-
-Also tell him this fun fact: The Code of Ur-Nammu is the oldest known surviving law code. It is from Mesopotamia and is written on tablets, in the Sumerian language
+Also tell him this fun fact: Procyon lotor (lotor meaning “the washerman), is the Latin name for the raccoon. If you watch raccoons eating you'll notice that they often seem to wash their food before dining.
 
 they always remember.
 
