@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/ed363c31a65c11edb88feeeeac1e7e5f7866b805/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/8c064fd9c9ed11ee8fc5eeeeac1e1a17468220a3/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/we-thank-thee-o-god-for-a-prophet?lang=eng">19 We thank thee, oh God, for a Prophet </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-is-risen?lang=eng">199 He Is Risen! </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/o-lord-of-hosts?lang=eng"> 178 O Lord of Hosts</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng"> 187 God Loved Us, So He Sent His Son</a>
 
 
 </div>
@@ -62,7 +62,7 @@
 <div align="center"> Sister Ashby
 </div>
 
---->
+
 *Speaker*
 <div align="center"> TBA
 </div>
@@ -74,14 +74,13 @@
 <div align="center">
   <a href="https://www.churchofjesuschrist.org/study/manual/hymns/love-one-another?lang=eng">308 Love on Another
 </a>
-  
-
 </div>
 
+--->
 
 *Speaker*  
 
-<div align="center"> TBA
+<div align="center"> You!!! It's Fast Sunday!!!!!!!
 </div>
 
 
@@ -90,7 +89,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/choose-the-right?lang=eng">239 Choose The Right</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=eng">137 Testimony</a>
   
 
 </div>
@@ -106,19 +105,16 @@
   <h2>Corcoran Announcements:</h2>
 </div>
  
-Jan 25 Stake Youth Fireside 
-Scheduled: Jan 25, 2026 at 6:00 PM
 
 Youth that plan on attending the Stake Youth Handcart Trek need to register by year end.  Don't delay.  See your youth leader if you need assistance registering online so they can get your parents the registration information.
 
-January Cleaning Assignment:  Matadamas Family and Spanish Group.  See bulletin board for your assignment.  
+february Cleaning Assignment:  TBA
 
 
 
+If you see this ask President Orton: would he rather be a vampire or a werewolf?
 
-If you see this ask President Orton: why he loves racoons?
-
-Also tell him this fun fact: Procyon lotor (lotor meaning “the washerman), is the Latin name for the raccoon. If you watch raccoons eating you'll notice that they often seem to wash their food before dining.
+Also tell him this fun fact: Probably the most famous vampire of all time, Count Dracula, quoted Deuteronomy 12:23: “The blood is the life.”
 
 they always remember.
 
