@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/8c064fd9c9ed11ee8fc5eeeeac1e1a17468220a3/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/5b6ccc1cb0b511eeb4eceeeeac1ee434aca3f26e/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -19,7 +19,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Thigpin</div>
+<div align="center">Brother Prater </div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/he-is-risen?lang=eng">199 He Is Risen! </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/high-on-the-mountain-top?lang=eng">5. High on the Mountain Top </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-loved-us-so-he-sent-his-son?lang=eng"> 187 God Loved Us, So He Sent His Son</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng"> 177. 'Tis Sweet to Sing the Matchless Love</a>
 
 
 </div>
@@ -61,10 +61,10 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
-
+--->
 
 *Speaker*
-<div align="center"> TBA
+<div align="center"> Brother Whiting
 </div>
 
 
@@ -72,15 +72,15 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/love-one-another?lang=eng">308 Love on Another
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302. I Know My Father Lives
 </a>
 </div>
 
---->
+
 
 *Speaker*  
 
-<div align="center"> You!!! It's Fast Sunday!!!!!!!
+<div align="center"> Brother Curtis
 </div>
 
 
@@ -89,7 +89,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=eng">137 Testimony</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joseph-smiths-first-prayer?lang=eng">26. Joseph Smith's First Prayer</a>
   
 
 </div>
@@ -106,15 +106,17 @@
 </div>
  
 
-Youth that plan on attending the Stake Youth Handcart Trek need to register by year end.  Don't delay.  See your youth leader if you need assistance registering online so they can get your parents the registration information.
+Branch Cleaning Day is March 4th now as the date changed.  
+Youth activities are now on Wednesday but check with youth leaders for details on this week’s schedule.  
+No Branch Council Meeting on February 15 due to holiday weekend.  
+Family History Center Open every Thursday from 2pm-4pm.  
+Tri Stake Formal youth Dance February 21st in Hanford.
 
-february Cleaning Assignment:  TBA
 
 
+If you see this ask President Orton: What fantasy world would he like to live in?
 
-If you see this ask President Orton: would he rather be a vampire or a werewolf?
-
-Also tell him this fun fact: Probably the most famous vampire of all time, Count Dracula, quoted Deuteronomy 12:23: “The blood is the life.”
+Also tell him this fun fact: Tolkien originally wanted to publish The Lord of the Rings as one book. It was over 1,000 pages and about half a million words long, so, the publisher split it into three books.
 
 they always remember.
 
