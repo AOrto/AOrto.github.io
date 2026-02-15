@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/5b6ccc1cb0b511eeb4eceeeeac1ee434aca3f26e/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/b490e1eac9ed11ee8fc5eeeeac1e1a179d4e9cd4/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/high-on-the-mountain-top?lang=eng">5. High on the Mountain Top </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116. Come, Follow Me </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng"> 177. 'Tis Sweet to Sing the Matchless Love</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=eng"> 184. Upon the Cross of Calvary</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Brother Whiting
+<div align="center"> Sister Stengel
 </div>
 
 
@@ -72,7 +72,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/i-know-my-father-lives?lang=eng">302. I Know My Father Lives
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/choose-the-right?lang=eng">239. Choose the Right
 </a>
 </div>
 
@@ -80,7 +80,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Curtis
+<div align="center"> Brother Hyer
 </div>
 
 
@@ -89,7 +89,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/joseph-smiths-first-prayer?lang=eng">26. Joseph Smith's First Prayer</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/if-you-could-hie-to-kolob?lang=eng">284. If You Could Hie to Kolob</a>
   
 
 </div>
@@ -107,8 +107,7 @@
  
 
 Branch Cleaning Day is March 4th now as the date changed.  
-Youth activities are now on Wednesday but check with youth leaders for details on this week’s schedule.  
-No Branch Council Meeting on February 15 due to holiday weekend.  
+Youth activities are now on Wednesday but check with youth leaders for details on this week’s schedule.    
 Family History Center Open every Thursday from 2pm-4pm.  
 Tri Stake Formal youth Dance February 21st in Hanford.
 
@@ -118,13 +117,14 @@ Tri Stake Formal youth Dance February 21st in Hanford.
   <img src="https://github.com/AOrto/AOrto.github.io/blob/main/imagepng_1.png?">
 </div>
 
-https://github.com/AOrto/AOrto.github.io/blob/main/imagepng_1.png?raw=true
 
 
 
-If you see this ask President Orton: What fantasy world would he like to live in?
 
-Also tell him this fun fact: Tolkien originally wanted to publish The Lord of the Rings as one book. It was over 1,000 pages and about half a million words long, so, the publisher split it into three books.
+If you see this ask President Orton: his weapon of choice
+
+Also tell him this fun fact: Often a knights sword would only be sharpened on one side. The process of sharpening involves removing small amounts of steel to achieve a fine edge so to preserve the life of a sword they would only use one edge. It is possible that the non-sharpened thicker edge could have been used to block sword blows or even for strikes against armor, saving the sharpened sharp edge for softer targets
+
 
 they always remember.
 
