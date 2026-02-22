@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/b490e1eac9ed11ee8fc5eeeeac1e1a179d4e9cd4/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/d43983a7907011ee8442eeeeac1e4df71aab14ec/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-follow-me?lang=eng">116. Come, Follow Me </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230. Scatter Sunshine </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=eng"> 184. Upon the Cross of Calvary</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Sister Stengel
+<div align="center"> Sister Kurry
 </div>
 
 
@@ -72,7 +72,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/choose-the-right?lang=eng">239. Choose the Right
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/keep-the-commandments?lang=eng">303. Keep the Commandments
 </a>
 </div>
 
@@ -80,7 +80,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Hyer
+<div align="center"> Brother Kurry
 </div>
 
 
@@ -89,7 +89,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/if-you-could-hie-to-kolob?lang=eng">284. If You Could Hie to Kolob</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/israel-israel-god-is-calling?lang=eng">7. Israel, Israel, God Is Calling</a>
   
 
 </div>
@@ -121,10 +121,9 @@ Tri Stake Formal youth Dance February 21st in Hanford.
 
 
 
-If you see this ask President Orton: his weapon of choice
+If you see this ask President Orton: his favorite dinosaurs?
 
-Also tell him this fun fact: Often a knights sword would only be sharpened on one side. The process of sharpening involves removing small amounts of steel to achieve a fine edge so to preserve the life of a sword they would only use one edge. It is possible that the non-sharpened thicker edge could have been used to block sword blows or even for strikes against armor, saving the sharpened sharp edge for softer targets
-
+Also tell him this fun fact: The character of Grant was modelled on two real-life paleontologists called Jack Horner and Robert Bakker. They both worked as consultants on Jurassic Park, and Bakker gets mentioned in the film by Hammond’s grandson, Tim, at one point.
 
 they always remember.
 
