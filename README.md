@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">230. Scatter Sunshine </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">19 We Thank Thee, O God, for a Prophet </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 169. As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 169 As Now We Take the Sacrement</a>
 
 
 </div>
@@ -61,7 +61,7 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
---->
+
 
 *Speaker*
 <div align="center"> Sister Kurry
@@ -77,10 +77,10 @@
 </div>
 
 
-
+--->
 *Speaker*  
 
-<div align="center"> Brother Kurry
+<div align="center"> You!!!! its fast sunday!!!!
 </div>
 
 
@@ -89,7 +89,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/israel-israel-god-is-calling?lang=eng">7. Israel, Israel, God Is Calling</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/israel-israel-god-is-calling?lang=eng">81 Press Forward Saints</a>
   
 
 </div>
@@ -106,11 +106,19 @@
 </div>
  
 
-Branch Cleaning Day is March 4th now as the date changed.  
-Youth activities are now on Wednesday but check with youth leaders for details on this week’s schedule.    
-Family History Center Open every Thursday from 2pm-4pm.  
-Tri Stake Formal youth Dance February 21st in Hanford.
-
+March 4: Branch Annual Deep Cleaning 5:30pm with Pizza.
+March 5: Bishops Council 7pm
+March 8: Daylight Savings Time Begins (Blah)
+March 8: Corcoran Branch Conference (Branch Council Meeting and Our annual prostate exam from the stake)
+March 8: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread March 19: Stake Priesthood Meeting and Dinner 6pm March 21: Corcoran Youth Temple Trip 10am Session Fresno March 21: Stake Dance Porterville 7pm
+March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10am)
+March 27: Stake Primary Activity Day for All Primary Children 6pm-7pm Pizza and Easter Egg Hunt
+March 28-29: Hanford Stake Conference
+March 30-April 1: Stake Youth Conference Handcart Hell on Wheels
+April 4-5: General Conference
+April 5: Easter
+April 10: Quarterly Reports Due April 12: Fast Sunday
+April 18: Tri Stake Dance Hanford 7pm
 
 
 <div align="center">
@@ -121,12 +129,9 @@ Tri Stake Formal youth Dance February 21st in Hanford.
 
 
 
-If you see this ask President Orton: his favorite dinosaurs?
+If you see this ask President Orton: Why do you not love lincoln enough to buy a bluey trampoline split with your wife for 100 dollars
 
-Also tell him this fun fact: The character of Grant was modelled on two real-life paleontologists called Jack Horner and Robert Bakker. They both worked as consultants on Jurassic Park, and Bakker gets mentioned in the film by Hammond’s grandson, Tim, at one point.
-
-they always remember.
-
+Also tell him this fun fact: NASA uses trampolines to train astronauts for spaceflight, and they were officially added to the Olympic Games in 2000.
 <h3> Gate Code: 3185</h3>
 ---
 
