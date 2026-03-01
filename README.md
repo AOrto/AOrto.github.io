@@ -107,17 +107,38 @@
  
 
 March 4: Branch Annual Deep Cleaning 5:30pm with Pizza.
+
 March 5: Bishops Council 7pm
-March 8: Daylight Savings Time Begins (Blah)
-March 8: Corcoran Branch Conference (Branch Council Meeting and Our annual prostate exam from the stake)
-March 8: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread March 19: Stake Priesthood Meeting and Dinner 6pm March 21: Corcoran Youth Temple Trip 10am Session Fresno March 21: Stake Dance Porterville 7pm
+
+March 8: Daylight Savings Time Begins
+
+March 8: Corcoran Branch Conference 
+
+
+March 8: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread 
+
+March 19: Stake Priesthood Meeting and Dinner 6pm 
+
+March 21: Corcoran Youth Temple Trip 10am Session Fresno 
+
+March 21: Stake Dance Porterville 7pm
+
 March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10am)
+
 March 27: Stake Primary Activity Day for All Primary Children 6pm-7pm Pizza and Easter Egg Hunt
+
 March 28-29: Hanford Stake Conference
-March 30-April 1: Stake Youth Conference Handcart Hell on Wheels
+
+March 30-April 1: Stake Youth Conference Handcart 
+
 April 4-5: General Conference
+
 April 5: Easter
-April 10: Quarterly Reports Due April 12: Fast Sunday
+
+April 10: Quarterly Reports Due 
+
+April 12: Fast Sunday
+
 April 18: Tri Stake Dance Hanford 7pm
 
 
