@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/d43983a7907011ee8442eeeeac1e4df71aab14ec/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/e2d99040907011eeb832eeeeac1e66c2aa9389e3/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -119,12 +119,6 @@ April 4-5: General Conference
 April 5: Easter
 April 10: Quarterly Reports Due April 12: Fast Sunday
 April 18: Tri Stake Dance Hanford 7pm
-
-
-<div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/imagepng_1.png?">
-</div>
-
 
 
 
