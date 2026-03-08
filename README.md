@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/e2d99040907011eeb832eeeeac1e66c2aa9389e3/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/baf1151f955311ee878feeeeac1e3b15038f3f32/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -19,7 +19,7 @@
 <div align="center">President Orton</div>
 
 *Conducting*  
-<div align="center">Brother Prater </div>
+<div align="center">Brother Orton </div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/scatter-sunshine?lang=eng">19 We Thank Thee, O God, for a Prophet </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30. Come, Come,ye saints </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/as-now-we-take-the-sacrament?lang=eng"> 169 As Now We Take the Sacrement</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-our-father-hear-us-pray?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
 
 
 </div>
@@ -61,10 +61,10 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
-
+--->
 
 *Speaker*
-<div align="center"> Sister Kurry
+<div align="center"> President Orton
 </div>
 
 
@@ -72,15 +72,14 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/keep-the-commandments?lang=eng">303. Keep the Commandments
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">304. Teach Me to Walk in the Light
 </a>
 </div>
 
 
---->
 *Speaker*  
 
-<div align="center"> You!!!! its fast sunday!!!!
+<div align="center"> President Birrell
 </div>
 
 
@@ -89,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/israel-israel-god-is-calling?lang=eng">81 Press Forward Saints</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92. For the Beauty of the Earth</a>
   
 
 </div>
@@ -104,18 +103,8 @@
 <div align="center">
   <h2>Corcoran Announcements:</h2>
 </div>
- 
 
-March 4: Branch Annual Deep Cleaning 5:30pm with Pizza.
-
-March 5: Bishops Council 7pm
-
-March 8: Daylight Savings Time Begins
-
-March 8: Corcoran Branch Conference 
-
-
-March 8: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread 
+March 15: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread 
 
 March 19: Stake Priesthood Meeting and Dinner 6pm 
 
@@ -126,6 +115,8 @@ March 21: Stake Dance Porterville 7pm
 March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10am)
 
 March 27: Stake Primary Activity Day for All Primary Children 6pm-7pm Pizza and Easter Egg Hunt
+
+March 29: 9am YSA continental breakfast and Q&A with general authority at Hanford Stake Center.
 
 March 28-29: Hanford Stake Conference
 
