@@ -136,8 +136,8 @@ April 18: Tri Stake Dance Hanford 7pm
 
 
 If you see this ask President Orton: What does Kindness begin with?
-
 Also tell him this fun fact: The word kind (adj.) originates from Old English gecynde ("natural, innate, native"), rooted in Proto-Germanic *kundi- ("natural, native") and *kunjam ("family, kin"). It signifies acting with the "natural" feelings of family/kin toward others, evolving from "well-disposed" (c. 1300) to "benevolent". It shares origins with kin and kindred
+
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
