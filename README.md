@@ -16,7 +16,7 @@
 ---
 
 *Presiding*  
-<div align="center">President Orton</div>
+<div align="center">President Birrell</div>
 
 *Conducting*  
 <div align="center">Brother Orton </div>
@@ -135,10 +135,9 @@ April 18: Tri Stake Dance Hanford 7pm
 
 
 
-If you see this ask President Orton: Why do you not love lincoln enough to buy a bluey trampoline split with your wife for 100 dollars
+If you see this ask President Orton: What does Kindness begin with?
 
-Also tell him this fun fact: NASA uses trampolines to train astronauts for spaceflight, and they were officially added to the Olympic Games in 2000.
-<h3> Gate Code: 3185</h3>
+Also tell him this fun fact: The word kind (adj.) originates from Old English gecynde ("natural, innate, native"), rooted in Proto-Germanic *kundi- ("natural, native") and *kunjam ("family, kin"). It signifies acting with the "natural" feelings of family/kin toward others, evolving from "well-disposed" (c. 1300) to "benevolent". It shares origins with kin and kindred
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
