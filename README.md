@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> President Orton
+<div align="center"> Bret Orton
 </div>
 
 
@@ -79,7 +79,7 @@
 
 *Speaker*  
 
-<div align="center"> President Birrell
+<div align="center"> Anne Orton
 </div>
 
 
