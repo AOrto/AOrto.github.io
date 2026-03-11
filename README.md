@@ -104,13 +104,13 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-March 15: Worldwide Relief Society Broadcast in Hanford with Hanford Ward March 11: Youth Saint Patrick's Dinner: Corned Beef, Irish Soda Bread 
+March 15: Worldwide Relief Society Broadcast in Hanford with Hanford Ward 
 
 March 19: Stake Priesthood Meeting and Dinner 6pm 
 
 March 21: Corcoran Youth Temple Trip 10am Session Fresno 
 
-March 21: Stake Dance Porterville 7pm
+March 21: Stake Dance Exeter 7pm
 
 March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10am)
 
@@ -135,9 +135,7 @@ April 18: Tri Stake Dance Hanford 7pm
 
 
 
-If you see this ask President Orton: What does Kindness begin with?
-Also tell him this fun fact: The word kind (adj.) originates from Old English gecynde ("natural, innate, native"), rooted in Proto-Germanic *kundi- ("natural, native") and *kunjam ("family, kin"). It signifies acting with the "natural" feelings of family/kin toward others, evolving from "well-disposed" (c. 1300) to "benevolent". It shares origins with kin and kindred
-
+If you see this ask President Orton: look dad I'm on the program
 ---
 
 For any questions please contact The Missionaries at (559)231-0649
