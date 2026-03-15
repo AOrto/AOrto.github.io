@@ -2,12 +2,12 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/baf1151f955311ee878feeeeac1e3b15038f3f32/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/b46edae8c9ed11eebea2eeeeac1e5c737ea3ea38/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
 <div align="center">
-  <h1>Church Of Jesus Christ of Latter Day Saints</h1>  
+  <h1>Church of Jesus Christ of Latter-day Saints</h1>  
   <h3>Corcoran Branch</h3>  
   <h2>Sacrament Meeting</h2>  
   10 am to 11 am
@@ -16,10 +16,10 @@
 ---
 
 *Presiding*  
-<div align="center">President Birrell</div>
+<div align="center">Brother Prater</div>
 
 *Conducting*  
-<div align="center">Brother Orton </div>
+<div align="center">Brother Prater </div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30. Come, Come,ye saints </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">2 The Spirit of God </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/god-our-father-hear-us-pray?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 171 With Humble Heart</a>
 
 
 </div>
@@ -72,7 +72,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">304. Teach Me to Walk in the Light
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">303 Keep the Commandments
 </a>
 </div>
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92. For the Beauty of the Earth</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">98 I Need Thee Every Hour</a>
   
 
 </div>
@@ -106,17 +106,17 @@
 
 March 15: Worldwide Relief Society Broadcast in Hanford with Hanford Ward 
 
-March 19: Stake Priesthood Meeting and Dinner 6pm 
+March 19: Stake Priesthood Meeting and Dinner 6 pm 
 
-March 21: Corcoran Youth Temple Trip 10am Session Fresno 
+March 21: Corcoran Youth Temple Trip 10 am Session Fresno 
 
-March 21: Stake Dance Exeter 7pm
+March 21: Stake Dance Exeter 7 pm
 
-March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10am)
+March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10 am)
 
-March 27: Stake Primary Activity Day for All Primary Children 6pm-7pm Pizza and Easter Egg Hunt
+March 27: Stake Primary Activity Day for All Primary Children, 6 pm-7 pm, Pizza and Easter Egg Hunt
 
-March 29: 9am YSA continental breakfast and Q&A with general authority at Hanford Stake Center.
+March 29: 9 am YSA continental breakfast and Q&A with a general authority at Hanford Stake Center.
 
 March 28-29: Hanford Stake Conference
 
@@ -130,12 +130,12 @@ April 10: Quarterly Reports Due
 
 April 12: Fast Sunday
 
-April 18: Tri Stake Dance Hanford 7pm
+April 18: Tri Stake Dance Hanford 7 pm
 
 
 
 
-If you see this ask President Orton: look dad I'm on the program
+If you see this, ask President Orton: look dad I'm on the program
 ---
 
-For any questions please contact The Missionaries at (559)231-0649
+For any questions, please contact The Missionaries at (559)231-0649
