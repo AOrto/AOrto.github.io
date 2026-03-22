@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/b46edae8c9ed11eebea2eeeeac1e5c737ea3ea38/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/5cb7e9b9b0b511eeb3a5eeeeac1e14203b6cf1a1/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -16,10 +16,10 @@
 ---
 
 *Presiding*  
-<div align="center">Brother Prater</div>
+<div align="center">Brother Orton</div>
 
 *Conducting*  
-<div align="center">Brother Prater </div>
+<div align="center">Brother Orton </div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">2 The Spirit of God </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">27 </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 171 With Humble Heart</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Bret Orton
+<div align="center"> Sister Browne
 </div>
 
 
@@ -72,14 +72,14 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">303 Keep the Commandments
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">308
 </a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> Anne Orton
+<div align="center"> patriarch Browne
 </div>
 
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">98 I Need Thee Every Hour</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">199</a>
   
 
 </div>
