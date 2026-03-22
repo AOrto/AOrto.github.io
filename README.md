@@ -104,15 +104,6 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-March 15: Worldwide Relief Society Broadcast in Hanford with Hanford Ward 
-
-March 19: Stake Priesthood Meeting and Dinner 6 pm 
-
-March 21: Corcoran Youth Temple Trip 10 am Session Fresno 
-
-March 21: Stake Dance Exeter 7 pm
-
-March 22: Patriarch and Sister Browne visiting the branch (Combined with Spanish Group 10 am)
 
 March 27: Stake Primary Activity Day for All Primary Children, 6 pm-7 pm, Pizza and Easter Egg Hunt
 
