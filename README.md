@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/5cb7e9b9b0b511eeb3a5eeeeac1e14203b6cf1a1/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/527282d1dda611ee9250eeeeac1e5053fc63f1d0/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">27 </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">1The Morning Break </a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 180 Father in Heaven, We Do Believe</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Sister Browne
+<div align="center"> TBA
 </div>
 
 
@@ -72,14 +72,14 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">308
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">1003 It Is Well with My Soul
 </a>
 </div>
 
 
 *Speaker*  
 
-<div align="center"> patriarch Browne
+<div align="center"> TBA
 </div>
 
 
@@ -88,7 +88,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">199</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">5 High on the Mountain Top</a>
   
 
 </div>
@@ -105,28 +105,11 @@
 </div>
 
 
-March 27: Stake Primary Activity Day for All Primary Children, 6 pm-7 pm, Pizza and Easter Egg Hunt
-
-March 29: 9 am YSA continental breakfast and Q&A with a general authority at Hanford Stake Center.
-
-March 28-29: Hanford Stake Conference
-
-March 30-April 1: Stake Youth Conference Handcart 
-
-April 4-5: General Conference
-
-April 5: Easter
-
-April 10: Quarterly Reports Due 
-
-April 12: Fast Sunday
-
-April 18: Tri Stake Dance Hanford 7 pm
 
 
 
 
-If you see this, ask President Orton: look dad I'm on the program
+If you see this, ask President Orton: what he would name a new planet
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
