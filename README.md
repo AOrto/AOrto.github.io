@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/527282d1dda611ee9250eeeeac1e5053fc63f1d0/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/272c8c31dda411eea378eeeeac1ecff5de2c194f/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">1The Morning Break </a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">85. How Firm a Foundation</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 180 Father in Heaven, We Do Believe</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -61,7 +61,7 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
---->
+
 
 *Speaker*
 <div align="center"> TBA
@@ -76,10 +76,12 @@
 </a>
 </div>
 
+--->
+
 
 *Speaker*  
 
-<div align="center"> TBA
+<div align="center"> You
 </div>
 
 
@@ -88,7 +90,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">5 High on the Mountain Top</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">161. The Lord Be with Us</a>
   
 
 </div>
@@ -109,7 +111,7 @@
 
 
 
-If you see this, ask President Orton: what he would name a new planet
+If you see this, ask President Orton: the highest grade level he thinks he could teach
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
