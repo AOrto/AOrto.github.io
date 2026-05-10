@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/272c8c31dda411eea378eeeeac1ecff5de2c194f/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/f69851fadfbb11ee9164eeeeac1e6a7a26c56436/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">85. How Firm a Foundation</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30. Come, Come, Ye Saints</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
 
 
 </div>
@@ -61,10 +61,11 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
-
+--->
 
 *Speaker*
-<div align="center"> TBA
+<div align="center"> Sister Mantadamas 
+  
 </div>
 
 
@@ -72,16 +73,16 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">1003 It Is Well with My Soul
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">1001. Come, Thou Fount of Every Blessing
 </a>
 </div>
 
---->
+
 
 
 *Speaker*  
 
-<div align="center"> You
+<div align="center"> Sister Mantadams
 </div>
 
 
@@ -90,7 +91,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">161. The Lord Be with Us</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">241. Count Your Blessings</a>
   
 
 </div>
@@ -111,7 +112,7 @@
 
 
 
-If you see this, ask President Orton: the highest grade level he thinks he could teach
+If you see this, ask President Orton: why he isnt a mother
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
