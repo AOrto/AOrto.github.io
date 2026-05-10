@@ -82,7 +82,7 @@
 
 *Speaker*  
 
-<div align="center"> Sister Mantadams
+<div align="center"> Sister Mantadamas
 </div>
 
 
