@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/f69851fadfbb11ee9164eeeeac1e6a7a26c56436/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/501531e3dda611ee9ffdeeeeac1ee3a03de605a2/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">30. Come, Come, Ye Saints</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">219. Because I Have Been Given Much</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 171. With Humble Heart</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Sister Mantadamas 
+<div align="center"> Leslie Brandon 
   
 </div>
 
@@ -73,7 +73,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">1001. Come, Thou Fount of Every Blessing
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">223. Have I Done Any Good?
 </a>
 </div>
 
@@ -82,7 +82,7 @@
 
 *Speaker*  
 
-<div align="center"> Sister Mantadamas
+<div align="center"> Tyler brandon
 </div>
 
 
@@ -91,7 +91,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">241. Count Your Blessings</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">3. Now Let Us Rejoice</a>
   
 
 </div>
@@ -107,8 +107,11 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
+May 30 6pm Branch Game Night with hot dogs 
 
+May 31: 5th Sunday Lesson 2nd hour RS room
 
+July 5: United Worldwide Fast for Religious Liberty
 
 
 
