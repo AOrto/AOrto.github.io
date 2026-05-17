@@ -115,7 +115,7 @@ July 5: United Worldwide Fast for Religious Liberty
 
 
 
-If you see this, ask President Orton: why he isnt a mother
+If you see this, ask President Orton: What he thinks will cause the next Global extinction?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
