@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/501531e3dda611ee9ffdeeeeac1ee3a03de605a2/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/61e91b26b0b511eead08eeeeac1e850a37e01f3d/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -16,7 +16,7 @@
 ---
 
 *Presiding*  
-<div align="center">Brother Orton</div>
+<div align="center">Brother Prater</div>
 
 *Conducting*  
 <div align="center">Brother Orton </div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">219. Because I Have Been Given Much</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">35. For the Strength of the Hills</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 171. With Humble Heart</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 173. While of These Emblems We Partake</a>
 
 
 </div>
@@ -64,7 +64,7 @@
 --->
 
 *Speaker*
-<div align="center"> Leslie Brandon 
+<div align="center"> Missionaries 
   
 </div>
 
@@ -73,7 +73,7 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">223. Have I Done Any Good?
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">166. Abide with Me!
 </a>
 </div>
 
@@ -82,7 +82,7 @@
 
 *Speaker*  
 
-<div align="center"> Tyler brandon
+<div align="center"> Missionaries
 </div>
 
 
@@ -91,7 +91,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">3. Now Let Us Rejoice</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">304. Teach Me to Walk in the Light</a>
   
 
 </div>
