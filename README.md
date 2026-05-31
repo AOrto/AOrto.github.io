@@ -107,15 +107,13 @@
   <h2>Corcoran Announcements:</h2>
 </div>
 
-May 30 6pm Branch Game Night with hot dogs 
-
 May 31: 5th Sunday Lesson 2nd hour RS room
 
 July 5: United Worldwide Fast for Religious Liberty
 
 
 
-If you see this, ask President Orton: What he thinks will cause the next Global extinction?
+If you see this, ask President Orton: does he believe in life after love?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
