@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/61e91b26b0b511eead08eeeeac1e850a37e01f3d/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/506dd932dda611ee8084eeeeac1ea93342d5240a/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">35. For the Strength of the Hills</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">9. Come, Rejoice</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 173. While of These Emblems We Partake</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -61,7 +61,7 @@
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
---->
+
 
 *Speaker*
 <div align="center"> Missionaries 
@@ -78,11 +78,11 @@
 </div>
 
 
-
+--->
 
 *Speaker*  
 
-<div align="center"> Missionaries
+<div align="center"> You!!! its fast sunday!!!!
 </div>
 
 
@@ -91,7 +91,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">304. Teach Me to Walk in the Light</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">224. I Have Work Enough to Do</a>
   
 
 </div>
@@ -108,13 +108,12 @@
 </div>
 gate code: 3185
 
-May 31: 5th Sunday Lesson 2nd hour RS room
 
 July 5: United Worldwide Fast for Religious Liberty
 
 
 
-If you see this, ask President Orton: does he believe in life after love?
+If you see this, ask President Orton: what is love?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
