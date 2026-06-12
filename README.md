@@ -112,9 +112,13 @@ gate code: 3185
 
 June 20 YSA Float Trip at Raber Farm .  
 Single Adult Aloha Party in Clovis.  
+
 June 26 Stake Tabernacle Choir Watch Party.  Must register for a free ticket.  
+
 July 5 United Worldwide Fast for Religious Liberty.  
-Also July 11 new and returning member Fresno Temple Baptism trip.  Sign up with President Orton or President Raber.  If your temple recommend is expired, make an appointment with President Orton ASAP.
+
+July 11 new and returning member Fresno Temple Baptism trip.  Sign up with President Orton or President Raber.  If your temple recommend is expired, make an appointment with President Orton ASAP.
+
 August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
 If you see this, ask President Orton: whats your roman empire?
