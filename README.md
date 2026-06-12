@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">10. Come, Sing to the Lord</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">252. Put Your Shoulder to the Wheel</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 180. Father in Heaven, We Do Believe</a>
 
 
 </div>
@@ -58,13 +58,14 @@
 
 
 <!---
+
 *Speaker*
 <div align="center"> Sister Ashby
 </div>
-
+--->
 
 *Speaker*
-<div align="center"> Missionaries 
+<div align="center"> Sister Nelson 
   
 </div>
 
@@ -73,16 +74,16 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">166. Abide with Me!
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">308. Love One Another!
 </a>
 </div>
 
 
---->
+
 
 *Speaker*  
 
-<div align="center"> You!!! its fast sunday!!!!
+<div align="center"> Sister Carlos
 </div>
 
 
@@ -91,7 +92,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">224. I Have Work Enough to Do</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">134. I Believe in Christ</a>
   
 
 </div>
@@ -109,11 +110,14 @@
 gate code: 3185
 
 
-July 5: United Worldwide Fast for Religious Liberty
+June 20 YSA Float Trip at Raber Farm .  
+Single Adult Aloha Party in Clovis.  
+June 26 Stake Tabernacle Choir Watch Party.  Must register for a free ticket.  
+July 5 United Worldwide Fast for Religious Liberty.  
+Also July 11 new and returning member Fresno Temple Baptism trip.  Sign up with President Orton or President Raber.  If your temple recommend is expired, make an appointment with President Orton ASAP.
+August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
-
-
-If you see this, ask President Orton: what is love?
+If you see this, ask President Orton: whats your roman empire?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
