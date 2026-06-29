@@ -2,10 +2,10 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/2dcfeb41dda411ee9e97eeeeac1e2a9cfb2de13d/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/703b2d354246b85f8e875c4396afc372.jpeg?raw=true" alt="Logo">
 </div>
 
-
+<!---
 <div align="center">
   <h1>Church of Jesus Christ of Latter-day Saints</h1>  
   <h3>Corcoran Branch</h3>  
@@ -57,7 +57,7 @@
 
 
 
-<!---
+
 
 *Speaker*
 <div align="center"> Sister Ashby
@@ -79,7 +79,7 @@
 </div>
 
 
---->
+
 
 *Speaker*  
 
@@ -103,6 +103,9 @@
 
 
 ---
+--->
+Gone on Vacation
+
 
 <div align="center">
   <h2>Corcoran Announcements:</h2>
@@ -111,15 +114,13 @@ gate code: 3185
 
   
 
-June 26 Stake Tabernacle Choir Watch Party.  Must register for a free ticket.  
-
 July 5 United Worldwide Fast for Religious Liberty.  
 
 July 11 new and returning member Fresno Temple Baptism trip.  Sign up with President Orton or President Raber.  If your temple recommend is expired, make an appointment with President Orton ASAP.
 
 August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
-If you see this, ask President Orton: How he felt about the USA beating australia in the american championship?
+If you see this, tell President Orton: Hang Loose!
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
