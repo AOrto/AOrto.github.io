@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/703b2d354246b85f8e875c4396afc372.jpeg?raw=true" alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/0503fa68c5b71222c0a35b04b3f91b8a.jpeg?raw=true" alt="Logo">
 </div>
 
 <!---
@@ -120,7 +120,7 @@ July 11 new and returning member Fresno Temple Baptism trip.  Sign up with Presi
 
 August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
-If you see this, tell President Orton: Hang Loose!
+If you see this, tell President Orton: Cowabunga!
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
