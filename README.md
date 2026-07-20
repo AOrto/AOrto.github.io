@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/0503fa68c5b71222c0a35b04b3f91b8a.jpeg?raw=true" alt="Logo">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_7287.png?raw=true" alt="Logo">
 </div>
 
 <!---
@@ -112,11 +112,10 @@ Gone on Vacation
 </div>
 gate code: 3185
 
-  
+<img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3412.jpeg?raw=true" 
 
-July 5 United Worldwide Fast for Religious Liberty.  
 
-July 11 new and returning member Fresno Temple Baptism trip.  Sign up with President Orton or President Raber.  If your temple recommend is expired, make an appointment with President Orton ASAP.
+<img src="https://github.com/AOrto/AOrto.github.io/blob/main/Stake%20Youth%20Event-%20Rollertowne.png?raw=true"
 
 August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
