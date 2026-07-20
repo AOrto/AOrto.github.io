@@ -112,10 +112,10 @@ Gone on Vacation
 </div>
 gate code: 3185
 
-<img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3412.jpeg?raw=true" 
+<img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3412.jpeg?raw=true" >
 
 
-<img src="https://github.com/AOrto/AOrto.github.io/blob/main/Stake%20Youth%20Event-%20Rollertowne.png?raw=true"
+<img src="https://github.com/AOrto/AOrto.github.io/blob/main/Stake%20Youth%20Event-%20Rollertowne.png?raw=true">
 
 August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
 
