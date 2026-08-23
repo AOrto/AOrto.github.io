@@ -2,10 +2,10 @@
 
 
 <div align="center">
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_7287.png?raw=true" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/c7be0e5400ca11ef81afeeeeac1ed07363626357/full/%21640%2C/0/default" alt="Logo">
 </div>
 
-<!---
+
 <div align="center">
   <h1>Church of Jesus Christ of Latter-day Saints</h1>  
   <h3>Corcoran Branch</h3>  
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">260</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">72. Praise to the Lord, the Almighty</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 172</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 193. I Stand All Amazed</a>
 
 
 </div>
@@ -60,21 +60,21 @@
 
 
 *Speaker*
-<div align="center"> Sister Ashby
+<div align="center"> Alex Hernandez
 </div>
 
-
+<!---
 *Speaker*
 <div align="center"> Brother Prince
   
 </div>
-
+--->
 
 
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">308. Love One Another!
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">89. The Lord Is My Light
 </a>
 </div>
 
@@ -83,7 +83,7 @@
 
 *Speaker*  
 
-<div align="center"> Brother Prince
+<div align="center"> Yesica Hernandez
 </div>
 
 
@@ -92,7 +92,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">292</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92. For the Beauty of the Earth</a>
   
 
 </div>
@@ -103,8 +103,9 @@
 
 
 ---
+<!---
 --->
-Gone on Vacation
+
 
 
 <div align="center">
@@ -112,12 +113,7 @@ Gone on Vacation
 </div>
 gate code: 3185
 
-<img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3412.jpeg?raw=true" >
 
-August 8 Branch Clothing Exchange.  Looking for donations of gently used, clean clothing to give away to the community.  See Brother Curtis for more info.
-
-
-<img src="https://github.com/AOrto/AOrto.github.io/blob/main/Stake%20Youth%20Event-%20Rollertowne.png?raw=true">
 
 
 If you see this, tell President Orton: Hang Loose!
