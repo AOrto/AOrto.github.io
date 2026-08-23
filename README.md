@@ -116,7 +116,7 @@ gate code: 3185
 
 
 
-If you see this, tell President Orton: Hang Loose!
+If you see this, ask President Orton: what grade he got in his highschool math classes?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
