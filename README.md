@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/c7be0e5400ca11ef81afeeeeac1ed07363626357/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/6a17d38501a611ef91e5eeeeac1ea1aedb4232cf/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">72. Praise to the Lord, the Almighty</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">148.Sabbath Day</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 193. I Stand All Amazed</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -60,7 +60,7 @@
 
 
 *Speaker*
-<div align="center"> Alex Hernandez
+<div align="center"> TBA
 </div>
 
 <!---
@@ -74,7 +74,8 @@
 *intermediate Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng">89. The Lord Is My Light
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/teach-me-to-walk-in-the-light?lang=eng"> 303 Keep the
+Commandments
 </a>
 </div>
 
@@ -83,7 +84,7 @@
 
 *Speaker*  
 
-<div align="center"> Yesica Hernandez
+<div align="center"> TBA
 </div>
 
 
@@ -92,7 +93,7 @@
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">92. For the Beauty of the Earth</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">81. press forward saints</a>
   
 
 </div>
@@ -113,6 +114,19 @@
 </div>
 gate code: 3185
 
+If you would like to sing at Stake conference they are singing page 83 in the childrens hymn book
+
+New Sunday Schedule Times as of September 2026:
+10:00am Sacrament Meeting Starts
+10:40am Talks and Testimonies End (Only one talk in sacrament meeting, no rest hymn)
+10:45am No later than.  Closing song and prayer ended.  Move to next class.
+10:50am(no later than)  Sunday School lesson has begun.  Prayer and short announcements are done before that time and lesson has commenced.  (Gospel Essentials for new and returning members)
+11:20am:  Sunday School lesson should be wrapping up.
+11:25am:  No later than this time closing prayer has been completed and everyone is moving to YM/YW, Elder’s Quorum, and Relief Society.
+11:30am:  No later than this time the prayer has been completed and lessons have begun.
+12:00pm:  Closing prayer has already been completed and church has ended.  You can now socialize briefly but please don’t linger as leaders need to go home with their families.
+Be considerate:  Do not run late into someone else’s assigned time.
+First Sunday in September: (New Schedule Times Begin)
 
 
 
