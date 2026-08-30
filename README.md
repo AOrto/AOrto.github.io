@@ -117,14 +117,23 @@ gate code: 3185
 If you would like to sing at Stake conference they are singing page 83 in the childrens hymn book
 
 New Sunday Schedule Times as of September 2026:
+
 10:00am Sacrament Meeting Starts
+
 10:40am Talks and Testimonies End (Only one talk in sacrament meeting, no rest hymn)
+
 10:45am No later than.  Closing song and prayer ended.  Move to next class.
+
 10:50am(no later than)  Sunday School lesson has begun.  Prayer and short announcements are done before that time and lesson has commenced.  (Gospel Essentials for new and returning members)
+
 11:20am:  Sunday School lesson should be wrapping up.
+
 11:25am:  No later than this time closing prayer has been completed and everyone is moving to YM/YW, Elder’s Quorum, and Relief Society.
+
 11:30am:  No later than this time the prayer has been completed and lessons have begun.
+
 12:00pm:  Closing prayer has already been completed and church has ended.  You can now socialize briefly but please don’t linger as leaders need to go home with their families.
+
 Be considerate:  Do not run late into someone else’s assigned time.
 First Sunday in September: (New Schedule Times Begin)
 
