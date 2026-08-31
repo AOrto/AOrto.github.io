@@ -114,7 +114,9 @@ Commandments
 </div>
 gate code: 3185
 
-If you would like to sing at Stake conference they are singing page 83 in the childrens hymn book
+Sister Jones is starting the Stake Choir practices at 3:00pm September 13. Her number is 559-772-9603
+Thank you Ward choir directors for your willingness to help.
+
 
 New Sunday Schedule Times as of September 2026:
 
