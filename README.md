@@ -141,7 +141,7 @@ First Sunday in September: (New Schedule Times Begin)
 
 
 
-If you see this, ask President Orton: what grade he got in his high school math classes?
+If you see this, ask President Orton: his favorite tv show is?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
