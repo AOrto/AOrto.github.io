@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/6a17d38501a611ef91e5eeeeac1ea1aedb4232cf/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/384266f300d311efb4a7eeeeac1e9b65220ecb97/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -16,7 +16,7 @@
 ---
 
 *Presiding*  
-<div align="center">Brother Prater</div>
+<div align="center">Brother Orton</div>
 
 *Conducting*  
 <div align="center">Brother Orton </div>
@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">148.Sabbath Day</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">108. The Lord Is My Shepherd</a>
   
 
 
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 169. As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
 
 
 </div>
@@ -60,7 +60,7 @@
 
 
 *Speaker*
-<div align="center"> TBA
+<div align="center"> You!!! its fast and testimony meeting!!!!!
 </div>
 
 <!---
@@ -68,7 +68,7 @@
 <div align="center"> Brother Prince
   
 </div>
---->
+
 
 
 *intermediate Hymn #*  
@@ -87,13 +87,13 @@ Commandments
 <div align="center"> TBA
 </div>
 
-
+--->
 
 
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">81. press forward saints</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">193. I Stand All Amazed</a>
   
 
 </div>
