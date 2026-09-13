@@ -31,14 +31,14 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">108. The Lord Is My Shepherd</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">255. Carry On</a>
   
 
 
 </div>
 
 *Invocation*  
-<div align="center">To Be Announced</div>
+<div align="center">Sister McMullin</div>
 
 <div align="center">
   <h3>Ward Business</h3>
@@ -46,7 +46,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 170. God, Our Father, Hear Us Pray</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 180. Father in Heaven, We Do Believe</a>
 
 
 </div>
@@ -60,7 +60,7 @@
 
 
 *Speaker*
-<div align="center"> You!!! its fast and testimony meeting!!!!!
+<div align="center"> Sister Matadamas
 </div>
 
 <!---
@@ -93,14 +93,14 @@ Commandments
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">193. I Stand All Amazed</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">2. The Spirit of God</a>
   
 
 </div>
 
 
 *Benediction*  
-<div align="center">To be Announced</div>
+<div align="center">Sister Petersen</div>
 
 
 ---
