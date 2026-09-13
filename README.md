@@ -117,6 +117,11 @@ gate code: 3185
 Sister Jones is starting the Stake Choir practices at 3:00pm September 13. Her number is 559-772-9603
 Thank you Ward choir directors for your willingness to help.
 
+<a href="https://your-destination-link.com">
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3382.jpeg?raw=true" alt="First Image Description" width="200" />
+  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3383.jpeg?raw=true" alt="Second Image Description" width="200" />
+</a>
+
 
 New Sunday Schedule Times as of September 2026:
 
