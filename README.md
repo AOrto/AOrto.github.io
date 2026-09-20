@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/52b6edd501a011ef9567eeeeac1ef5a1500c2ff9/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/9af4e40300d111efadc8eeeeac1eeaeac38ef806/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,14 +31,14 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">255. Carry On</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">274. The Iron Rod</a>
   
 
 
 </div>
 
 *Invocation*  
-<div align="center">Sister McMullin</div>
+<div align="center">tbs</div>
 
 <div align="center">
   <h3>Ward Business</h3>
@@ -46,7 +46,9 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 180. Father in Heaven, We Do Believe</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 173. While of These
+Emblems We
+Partake</a>
 
 
 </div>
@@ -60,7 +62,7 @@
 
 
 *Speaker*
-<div align="center"> Sister Matadamas
+<div align="center"> Bruce Buhler
 </div>
 
 <!---
@@ -93,7 +95,7 @@ Commandments
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">2. The Spirit of God</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">252. Put Your Shoulder to the Wheel</a>
   
 
 </div>
@@ -113,7 +115,11 @@ Commandments
   <h2>Corcoran Announcements:</h2>
 </div>
 gate code: 3185
+9/27 is Stake Conference so the main building will be closed 
+10/4 is Conference the main building will be closed
 
+
+There is a stake choir practice at 3:00pm this Sunday, September 20 and another at 9:00am on September 27, before Stake Conference.
 Sister Jones is starting the Stake Choir practices at 3:00pm September 13. Her number is 559-772-9603
 Thank you Ward choir directors for your willingness to help.
 
