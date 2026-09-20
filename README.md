@@ -115,8 +115,14 @@ Commandments
   <h2>Corcoran Announcements:</h2>
 </div>
 gate code: 3185
+
+
 9/27 is Stake Conference so the main building will be closed 
+
+
+
 10/4 is Conference the main building will be closed
+
 
 
 There is a stake choir practice at 3:00pm this Sunday, September 20 and another at 9:00am on September 27, before Stake Conference.
@@ -152,7 +158,7 @@ First Sunday in September: (New Schedule Times Begin)
 
 
 
-If you see this, ask President Orton: his favorite tv show is?
+If you see this, ask President Orton: How he's doing?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
