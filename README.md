@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/9af4e40300d111efadc8eeeeac1eeaeac38ef806/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/f7d8b44313b411efaa94eeeeac1e64314ec0298d/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
