@@ -19,7 +19,7 @@
 <div align="center">Brother Orton</div>
 
 *Conducting*  
-<div align="center">Brother Orton </div>
+<div align="center">Brother Lorenzo Castro </div>
 
 *Organist*  
 <div align="center">Sister Tinney</div>
@@ -31,14 +31,15 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">274. The Iron Rod</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">280. Welcome, Welcome, Sabbath
+Morning</a>
   
 
 
 </div>
 
 *Invocation*  
-<div align="center">tbs</div>
+<div align="center">tba</div>
 
 <div align="center">
   <h3>Ward Business</h3>
@@ -46,9 +47,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng"> 173. While of These
-Emblems We
-Partake</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -62,7 +61,7 @@ Partake</a>
 
 
 *Speaker*
-<div align="center"> Bruce Buhler
+<div align="center"> tba
 </div>
 
 <!---
@@ -95,14 +94,14 @@ Commandments
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">252. Put Your Shoulder to the Wheel</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">3. Now Let Us Rejoice</a>
   
 
 </div>
 
 
 *Benediction*  
-<div align="center">Sister Petersen</div>
+<div align="center">tba</div>
 
 
 ---
@@ -117,22 +116,17 @@ Commandments
 gate code: 3185
 
 
-9/27 is Stake Conference so the main building will be closed 
 
 
 
-10/4 is Conference the main building will be closed
+Corcoran Branch
+The church has a new six part series following several people from different countries who come to Salt Lake as part of the lead up to the temple rededication. The series is called Dedicate and is available on Youtube at https://www.youtube.com/@churchofjesuschrist and at the church website at https://www.churchofjesuschrist.org/study/video/dedicate/dedicate-episode-1-all-nations-will-flow-unto-it?lang=eng It can also be watched at BYUtv.
 
+A special request has been made by the Area Presidency that we watch this together as families. Youth in our stake and parents have already gathered this week to watch the first episode together. I ask that you please take the time to watch this series with your family and discuss it together. I do not have email addresses for all the members of the branch so please help share this with your friends, family and those you minister to. Thank you!
 
+Thank you!
 
-There is a stake choir practice at 3:00pm this Sunday, September 20 and another at 9:00am on September 27, before Stake Conference.
-Sister Jones is starting the Stake Choir practices at 3:00pm September 13. Her number is 559-772-9603
-Thank you Ward choir directors for your willingness to help.
-
-
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3382.jpeg?raw=true" alt="First Image Description" width="200" />
-  <img src="https://github.com/AOrto/AOrto.github.io/blob/main/IMG_3383.jpeg?raw=true" alt="Second Image Description" width="200" />
-
+President Orton
 
 
 New Sunday Schedule Times as of September 2026:
