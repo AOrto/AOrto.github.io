@@ -61,7 +61,7 @@
 
 
 *Speaker*
-<div align="center"> tba
+<div align="center"> Kylie Fleming
 </div>
 
 <!---
