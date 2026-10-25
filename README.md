@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.churchofjesuschrist.org/imgs/f7d8b44313b411efaa94eeeeac1e64314ec0298d/full/%21640%2C/0/default" alt="Logo">
+  <img src="https://www.churchofjesuschrist.org/imgs/687a7dba13ae11efbf2feeeeac1e59432305a0b9/full/%21640%2C/0/default" alt="Logo">
 </div>
 
 
@@ -31,8 +31,8 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">280. Welcome, Welcome, Sabbath
-Morning</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">22. We Listen to a Prophet's Voice
+</a>
   
 
 
@@ -47,7 +47,7 @@ Morning</a>
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">169. As Now We Take the Sacrament</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">19. We Thank Thee, O God, for a Prophet</a>
 
 
 </div>
@@ -116,7 +116,35 @@ Commandments
 gate code: 3185
 
 
+October 25:  Stake YW Standards Night 6pm-7:30pm
+October 29: Corcoran Carpet Cleaning.  Please stay out of building for 24 hours
+November 4:  5:30PM Branch Semi Annual Cleaning and Pizza
+November 1:  Daylight Savings Time Ends
+November 20-21: Stake Young Men Campout in Riverdale at Dustin Raber Farm (both on stake calendar)
+November 8:  Stake Visit to Corcoran Branch
+November 11:  Veterans Day
+November 14:  Youth Temple Trip.  Sister Hatfield made 10am appointment. 
+November 21:  Stake YSA Temple Baptism Trip
+November 26:  Thanksgiving
+November 29: 5th Sunday  Review Come Follow Me for 2027.  May change with stake. 
+December:  Prater’s leaving to return to Hanford.
+December 3:  Bishop’s Council Meeting 7pm
+December 5:  5:00pm-7:00pm Branch Christmas Party
+December 6:  First Presidency Christmas Devotional
+December 15:  End Tithing Declaration
+December 20:  Sacrament Meeting Only for Church (1 hour)
+December 22:  Stake Youth Ice Skating in Hanford
+December 31:  Tri Stake Youth Dance Hanford 7pm-10pm
+January:  Branch Goals Due
+January 10:  Quarterly Reports Due
+January 15:  Stake Audits Begin
+January 16:  Worldwide Youth Discussion Broadcast
+March 20-21:  Spring Stake Conference
+April 3-4:  General Conference
+June 28-July 3:  Girls Camp
 
+
+Announcements:  Reminder new second hour schedule.  Tithing settlement has begun.  Please sign up.  Stake YW Standards Night this evening from 6pm-7:30pm at Hanford Stake Center.  Please all YW attend.  October 29 Carpet Cleaning.  Please stay out of building for 24 hours.  November 4th Branch Pizza and Cleaning.
 
 
 Corcoran Branch
@@ -152,7 +180,7 @@ First Sunday in September: (New Schedule Times Begin)
 
 
 
-If you see this, ask President Orton: How he's doing?
+If you see this, ask President Orton: what his favorite halloween movie is?
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
