@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">22. We Listen to a Prophet's Voice
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">115. Come, Ye Disconsolate
 </a>
   
 
@@ -47,7 +47,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">19. We Thank Thee, O God, for a Prophet</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">171. With Humble Heart</a>
 
 
 </div>
@@ -94,7 +94,7 @@ Commandments
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">3. Now Let Us Rejoice</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">303. Keep the Commandments</a>
   
 
 </div>
@@ -202,7 +202,7 @@ First Sunday in September: (New Schedule Times Begin)
 
 
 
-If you see this, ask President Orton: what his favorite halloween movie is?
+If you see this, ask President Orton: what time is it!
 ---
 
 For any questions, please contact The Missionaries at (559)231-0649
