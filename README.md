@@ -61,7 +61,7 @@
 
 
 *Speaker*
-<div align="center"> Kylie Fleming
+<div align="center"> You!!! its fast sunday!!!
 </div>
 
 <!---
@@ -116,9 +116,6 @@ Commandments
 gate code: 3185
 
 
-October 25:  Stake YW Standards Night 6pm-7:30pm
-
-October 29: Corcoran Carpet Cleaning.  Please stay out of building for 24 hours
 
 November 4:  5:30PM Branch Semi Annual Cleaning and Pizza
 
