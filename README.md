@@ -31,7 +31,7 @@
 
 *Opening Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">115. Come, Ye Disconsolate
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/come-come-ye-saints?lang=eng">129. Where Can I Turn for Peace?
 </a>
   
 
@@ -47,7 +47,7 @@
 
 *Sacrament Hymn #*  
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">171. With Humble Heart</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/with-humble-heart?lang=eng">169. As Now We Take the Sacrament</a>
 
 
 </div>
@@ -61,7 +61,7 @@
 
 
 *Speaker*
-<div align="center"> You!!! its fast sunday!!!
+<div align="center"> Brother Curtis
 </div>
 
 <!---
@@ -94,7 +94,7 @@ Commandments
 *Closing Hymn #*  
 
 <div align="center">
-  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">303. Keep the Commandments</a>
+  <a href="https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=eng">239. Choose the Right</a>
   
 
 </div>
@@ -117,17 +117,9 @@ gate code: 3185
 
 
 
-November 4:  5:30PM Branch Semi Annual Cleaning and Pizza
-
-November 1:  Daylight Savings Time Ends
+ 
 
 November 20-21: Stake Young Men Campout in Riverdale at Dustin Raber Farm (both on stake calendar)
-
-November 8:  Stake Visit to Corcoran Branch
-
-November 11:  Veterans Day
-
-November 14:  Youth Temple Trip.  Sister Hatfield made 10am appointment. 
 
 November 21:  Stake YSA Temple Baptism Trip
 
